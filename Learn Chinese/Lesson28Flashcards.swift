@@ -1,0 +1,30 @@
+struct Lesson28Flashcards {
+    static let data: [Flashcard] = [
+        Flashcard(pinyin: "chuàngzào", chinese: "创造", russian: "создавать", english: "create"),
+        Flashcard(pinyin: "gěi chéngxù yuán zhīfù qián", chinese: "给程序员支付钱", russian: "платить программисту", english: "pay the programmer"),
+        Flashcard(pinyin: "zhāng", chinese: "张", russian: "счетное слово для фото", english: "measure word for photo"),
+        Flashcard(pinyin: "yī zhāng zhàopiàn", chinese: "一张照片", russian: "одна фотография", english: "one photo"),
+        Flashcard(pinyin: "xué zhōngwén kāishǐ de shíhòu", chinese: "学中文开始的时候", russian: "когда начал учить китайский", english: "when started learning Chinese"),
+        Flashcard(pinyin: "jìlù", chinese: "记录", russian: "запись", english: "record"),
+        Flashcard(pinyin: "měi gè yuè 3 měijīn", chinese: "每个月3美金", russian: "3 доллара каждый месяц", english: "3 dollars every month"),
+        Flashcard(pinyin: "jīběn", chinese: "基本", russian: "основной/документальный", english: "basic/documentary"),
+        Flashcard(pinyin: "rènwù", chinese: "任务", russian: "задача", english: "task"),
+        Flashcard(pinyin: "ài ěr lán", chinese: "爱尔兰", russian: "Ирландия", english: "Ireland"),
+        Flashcard(pinyin: "zài jiǔbā jiàn le tāmen", chinese: "在酒吧见了他们", russian: "встретил их в баре", english: "met them in the bar"),
+        Flashcard(pinyin: "tóng xìng liàn", chinese: "同性恋", russian: "гей/лесбиянка (однополая любовь)", english: "homosexual"),
+        Flashcard(pinyin: "shēnghuó fèi", chinese: "生活费", russian: "карманные деньги", english: "pocket money"),
+        Flashcard(pinyin: "ān jìng", chinese: "安静", russian: "спокойный", english: "quiet"),
+        Flashcard(pinyin: "cúnzài", chinese: "存在", russian: "существовать", english: "exist"),
+        Flashcard(pinyin: "wǎngzhàn", chinese: "网站", russian: "сайт", english: "website"),
+        Flashcard(pinyin: "huí jiā (lái jiā)", chinese: "回家(来家)", russian: "возвращаться домой", english: "go home (come home)"),
+        Flashcard(pinyin: "xīngqī tiān", chinese: "星期天", russian: "воскресенье", english: "Sunday"),
+        Flashcard(pinyin: "xīngqī rì", chinese: "星期日", russian: "воскресенье", english: "Sunday"),
+        Flashcard(pinyin: "zhíjiē huíjiā", chinese: "直接回家", russian: "прямо пойдем домой", english: "go home directly"),
+        Flashcard(pinyin: "yāoqǐng", chinese: "邀请", russian: "приглашать", english: "invite"),
+        Flashcard(pinyin: "dì yī cì lái zhōngguó", chinese: "第一次来中国", russian: "первый раз в Китае", english: "first time in China"),
+        Flashcard(pinyin: "sān gè yuè", chinese: "三个月", russian: "три месяца", english: "three months"),
+        Flashcard(pinyin: "jìsuàn", chinese: "计算", russian: "считать", english: "calculate"),
+        Flashcard(pinyin: "jiāo", chinese: "交", russian: "отнимать", english: "hand in"),
+        Flashcard(pinyin: "zūjīn", chinese: "租金", russian: "арендная плата", english: "rent")
+    ]
+}

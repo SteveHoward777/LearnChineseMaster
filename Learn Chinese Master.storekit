@@ -1,0 +1,143 @@
+{
+  "identifier" : "33FDF58F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "6505012851",
+      "localizations" : [
+        {
+          "description" : "Chinese educational app",
+          "displayName" : "Learn Chinese app",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.learnchinese.flashcards.basic",
+      "referenceName" : "Learn Chinese Master",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6504996840",
+    "_developerTeamID" : "F47N76J6T2",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 743143587.95877099,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21505299",
+      "localizations" : [
+
+      ],
+      "name" : "Learn Chinese Master",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6505015496",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Chinese educational app 1 month",
+              "displayName" : "Learn Chinese app",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.learnchinese.flashcards.basic1",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Learn Chinese",
+          "subscriptionGroupID" : "21505299",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6547840072",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Chinese educational app",
+              "displayName" : "Learn Chinese app",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.learnchinese.flashcards.basic3",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Learn Chinese for 1 Year",
+          "subscriptionGroupID" : "21505299",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

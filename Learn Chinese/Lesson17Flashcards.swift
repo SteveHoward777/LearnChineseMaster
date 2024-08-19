@@ -1,0 +1,32 @@
+struct Lesson17Flashcards {
+    static let data: [Flashcard] = [
+        Flashcard(pinyin: "dádào mùdì dì", chinese: "达到目的地", russian: "достичь места назначения", english: "reach the destination"),
+        Flashcard(pinyin: "cónglái bù", chinese: "从来不", russian: "никогда", english: "never"),
+        Flashcard(pinyin: "gēngxīn", chinese: "更新", russian: "обновлять", english: "update"),
+        Flashcard(pinyin: "xīnqíng", chinese: "心情", russian: "настроение", english: "mood"),
+        Flashcard(pinyin: "tàidu", chinese: "态度", russian: "поведение/отношение", english: "attitude"),
+        Flashcard(pinyin: "bù zhùyì jiāotōng guīzé", chinese: "不注意交通规则", russian: "не придерживаться ПДД", english: "not follow traffic rules"),
+        Flashcard(pinyin: "kòngzhì", chinese: "控制", russian: "контролировать", english: "control"),
+        Flashcard(pinyin: "wéiyuējīn", chinese: "违约金", russian: "штраф", english: "penalty"),
+        Flashcard(pinyin: "zài wǒ jiā fùjìn", chinese: "在我家附近", russian: "недалеко от моего дома", english: "near my house"),
+        Flashcard(pinyin: "dìtiě lí wǒ jiā jìn", chinese: "地铁离我家近", russian: "метро близко к моему дому", english: "subway is close to my house"),
+        Flashcard(pinyin: "diàndòng qìchē", chinese: "电动车", russian: "электробайк", english: "electric bike"),
+        Flashcard(pinyin: "gōngyù", chinese: "公寓", russian: "ЖК", english: "apartment"),
+        Flashcard(pinyin: "bànfǎ", chinese: "办法", russian: "метод", english: "method"),
+        Flashcard(pinyin: "rènzhēn", chinese: "认真", russian: "серьезный", english: "serious"),
+        Flashcard(pinyin: "yīngyǔ wéi mǔyǔ", chinese: "英语为母语", russian: "английский как родной язык", english: "native English speaker"),
+        Flashcard(pinyin: "tóurù", chinese: "投入", russian: "инвестировать", english: "invest"),
+        Flashcard(pinyin: "dào nǎr tóurù qián", chinese: "到哪投入钱", russian: "куда инвестировать деньги", english: "where to invest money"),
+        Flashcard(pinyin: "chuàngyè", chinese: "创业", russian: "стартап", english: "startup"),
+        Flashcard(pinyin: "shúrén", chinese: "熟人", russian: "знакомый человек", english: "acquaintance"),
+        Flashcard(pinyin: "bǐtèbì", chinese: "比特币", russian: "биткоин", english: "Bitcoin"),
+        Flashcard(pinyin: "zhànghù", chinese: "账户", russian: "аккаунт", english: "account"),
+        Flashcard(pinyin: "qiánbāo", chinese: "钱包", russian: "кошелек", english: "wallet"),
+        Flashcard(pinyin: "zhùcè", chinese: "注册", russian: "зарегаться", english: "register"),
+        Flashcard(pinyin: "shōuhuò jīnglǐ", chinese: "收货经理", russian: "sales manager", english: "sales manager"),
+        Flashcard(pinyin: "tóuzī zhě", chinese: "投资者", russian: "инвестор", english: "investor"),
+        Flashcard(pinyin: "yīgòng", chinese: "一共", russian: "в общем/ в сумме", english: "in total"),
+        Flashcard(pinyin: "zuìzhōng", chinese: "最终", russian: "в конце концов", english: "finally"),
+        Flashcard(pinyin: "yīkào", chinese: "依靠", russian: "зависеть от", english: "depend on")
+    ]
+}

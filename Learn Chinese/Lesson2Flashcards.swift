@@ -1,0 +1,32 @@
+struct Lesson2Flashcards {
+    static let data: [Flashcard] = [
+        Flashcard(pinyin: "Yǒu diǎnr lèi", chinese: "有点儿累", russian: "Немного устал", english: "A little tired"),
+        Flashcard(pinyin: "Zhù zài chéngshì zhōngxīn", chinese: "住在城市中心", russian: "Жить в центре города", english: "Live in the city center"),
+        Flashcard(pinyin: "Qūyù", chinese: "区域", russian: "Район", english: "Area"),
+        Flashcard(pinyin: "Fùmǔ yào xuéxí", chinese: "父母要学习", russian: "Родители должны учиться", english: "Parents need to study"),
+        Flashcard(pinyin: "Lián", chinese: "连", russian: "Даже", english: "Even"),
+        Flashcard(pinyin: "Lián bǐ Jīfǔ dà yī diǎnr", chinese: "连比基辅大一点儿", russian: "Даже немного больше, чем Киев", english: "Even a little bigger than Kyiv"),
+        Flashcard(pinyin: "Nǐ yòng chē de shíhou", chinese: "你用车的时候", russian: "Когда ты используешь машину", english: "When you use the car"),
+        Flashcard(pinyin: "Kuài yī diǎnr", chinese: "快一点儿", russian: "Быстрее", english: "A little faster"),
+        Flashcard(pinyin: "Tóngshì", chinese: "同事", russian: "Коллега", english: "Colleague"),
+        Flashcard(pinyin: "Běijīng bǐ Jīfǔ dà", chinese: "北京比基辅大", russian: "Пекин больше, чем Киев", english: "Beijing is bigger than Kyiv"),
+        Flashcard(pinyin: "Běijīng shì zhōngxīn", chinese: "北京市中心", russian: "Центр Пекина", english: "Beijing city center"),
+        Flashcard(pinyin: "Jīntiān wǒ hěn lèi", chinese: "今天我很累", russian: "Сегодня я очень устал", english: "I'm very tired today"),
+        Flashcard(pinyin: "Yuēhuì", chinese: "约会", russian: "Свидание", english: "Date"),
+        Flashcard(pinyin: "Wǒ hé tā yīqǐ qù", chinese: "我和他一起去", russian: "Я иду с ним", english: "I'm going with him"),
+        Flashcard(pinyin: "Wǒ hé lǎopó yīqǐ zuòfàn", chinese: "我和老婆一起做饭", russian: "Готовлю вместе с женой", english: "I'm cooking with my wife"),
+        Flashcard(pinyin: "10 diǎn jiéshù yuēhuì", chinese: "10点结束约会", russian: "Закончить свидание в 10 часов", english: "Finish the date at 10 o'clock"),
+        Flashcard(pinyin: "Yī diǎnr wǎn", chinese: "一点儿晚", russian: "Немного поздно", english: "A little late"),
+        Flashcard(pinyin: "Wǒmen yào chūqù bā diǎn", chinese: "我们要出去八点", russian: "Мы должны выйти в восемь часов", english: "We need to leave at 8 o'clock"),
+        Flashcard(pinyin: "Háishì 11 diǎn", chinese: "还是11点", russian: "Или в 11 часов", english: "Or at 11 o'clock"),
+        Flashcard(pinyin: "Dǎ chē", chinese: "打车", russian: "Вызвать такси", english: "Call a taxi"),
+        Flashcard(pinyin: "Ránhòu wǒ qù jiǔbā", chinese: "然后我去酒吧", russian: "Потом я иду в бар", english: "Then I go to the bar"),
+        Flashcard(pinyin: "Zhōumò", chinese: "周末", russian: "Выходные", english: "Weekend"),
+        Flashcard(pinyin: "Yǒu diǎnr wǎn", chinese: "有点儿晚", russian: "Немного поздно", english: "A little late"),
+        Flashcard(pinyin: "Yǒu diǎnr guì", chinese: "有点儿贵", russian: "Немного дорого", english: "A little expensive"),
+        Flashcard(pinyin: "Nǐ guòlái le yǒu diǎnr zǎo", chinese: "你过来了有点儿早", russian: "Ты пришел немного рано", english: "You came a little early"),
+        Flashcard(pinyin: "Nǐ zǎo diǎnr guòlái", chinese: "你早点儿过来", russian: "Приходи пораньше", english: "Come a little earlier"),
+        Flashcard(pinyin: "Zǎo yī diǎnr", chinese: "早一点儿", russian: "Пораньше", english: "A little earlier"),
+        Flashcard(pinyin: "Piányi yī diǎnr", chinese: "便宜一点儿", russian: "Немного дешевле", english: "A little cheaper")
+    ]
+}
