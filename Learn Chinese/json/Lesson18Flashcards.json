@@ -1,0 +1,200 @@
+[
+    {
+        "pinyin": "bān dōngxī",
+        "chinese": "搬东西",
+        "russian": "переезжать/перемещать вещи",
+        "english": "move things"
+    },
+    {
+        "pinyin": "xiàjiàng",
+        "chinese": "下降",
+        "russian": "понижаться (курс например)",
+        "english": "decrease (e.g., rate)"
+    },
+    {
+        "pinyin": "jiàgé hěn dī",
+        "chinese": "价格很低",
+        "russian": "низкая цена",
+        "english": "very low price"
+    },
+    {
+        "pinyin": "wěndìng",
+        "chinese": "稳定",
+        "russian": "стабильный",
+        "english": "stable"
+    },
+    {
+        "pinyin": "8 nián qián",
+        "chinese": "八年前",
+        "russian": "8 лет назад",
+        "english": "8 years ago"
+    },
+    {
+        "pinyin": "huìlǜ xiàjiàng le",
+        "chinese": "汇率下降了",
+        "russian": "курс понизился",
+        "english": "exchange rate decreased"
+    },
+    {
+        "pinyin": "diūshī",
+        "chinese": "丢失",
+        "russian": "терять",
+        "english": "lose"
+    },
+    {
+        "pinyin": "bǎifēn zhī èrshíwǔ",
+        "chinese": "百分之二十五",
+        "russian": "25%",
+        "english": "25 percent"
+    },
+    {
+        "pinyin": "tā diūshī le dàgài bǎifēnzhī èrshíwǔ",
+        "chinese": "他丢失了大概百分之二十五",
+        "russian": "он потерял около 25%",
+        "english": "he lost about 25%"
+    },
+    {
+        "pinyin": "yīdiǎnr qián",
+        "chinese": "一点儿钱",
+        "russian": "немного денег",
+        "english": "a little money"
+    },
+    {
+        "pinyin": "bǎifēnbǐ",
+        "chinese": "百分比",
+        "russian": "процентное соотношение",
+        "english": "percentage"
+    },
+    {
+        "pinyin": "bù kào pǔ",
+        "chinese": "不靠谱",
+        "russian": "не надежно",
+        "english": "unreliable"
+    },
+    {
+        "pinyin": "dàoqī",
+        "chinese": "到期",
+        "russian": "истекать",
+        "english": "expire"
+    },
+    {
+        "pinyin": "huídá",
+        "chinese": "回答",
+        "russian": "ответил",
+        "english": "answered"
+    },
+    {
+        "pinyin": "hùjí",
+        "chinese": "户籍",
+        "russian": "прописка",
+        "english": "household registration"
+    },
+    {
+        "pinyin": "jīhū",
+        "chinese": "几乎",
+        "russian": "почти",
+        "english": "almost"
+    },
+    {
+        "pinyin": "70% bǎifēnzhī qīshí",
+        "chinese": "70% 百分之七十",
+        "russian": "70%",
+        "english": "70 percent"
+    },
+    {
+        "pinyin": "tǎolùn",
+        "chinese": "讨论",
+        "russian": "обсуждать",
+        "english": "discuss"
+    },
+    {
+        "pinyin": "néng zhǎodào gèng hǎo de fángzi",
+        "chinese": "能找到更好的房子",
+        "russian": "могу найти лучшее жилье",
+        "english": "can find a better house"
+    },
+    {
+        "pinyin": "fángdōng",
+        "chinese": "房东",
+        "russian": "арендодатель",
+        "english": "landlord"
+    },
+    {
+        "pinyin": "jiājù",
+        "chinese": "家具",
+        "russian": "мебель",
+        "english": "furniture"
+    },
+    {
+        "pinyin": "bù gòu liàng",
+        "chinese": "不够亮",
+        "russian": "недостаточно светло",
+        "english": "not bright enough"
+    },
+    {
+        "pinyin": "liàngdù bù gāo",
+        "chinese": "亮度不高",
+        "russian": "освещенность не высокая",
+        "english": "low brightness"
+    },
+    {
+        "pinyin": "àn",
+        "chinese": "暗",
+        "russian": "темный",
+        "english": "dark"
+    },
+    {
+        "pinyin": "shàngshēng",
+        "chinese": "上升",
+        "russian": "повышать",
+        "english": "increase"
+    },
+    {
+        "pinyin": "fángjià",
+        "chinese": "房价",
+        "russian": "цена на квартиру",
+        "english": "house price"
+    },
+    {
+        "pinyin": "qiān hétóng",
+        "chinese": "签合同",
+        "russian": "подписывать контракт",
+        "english": "sign a contract"
+    },
+    {
+        "pinyin": "qián yī gè yuè",
+        "chinese": "前一个月",
+        "russian": "месяц назад",
+        "english": "a month ago"
+    },
+    {
+        "pinyin": "xià gè yuè",
+        "chinese": "下个月",
+        "russian": "в следующем месяце",
+        "english": "next month"
+    },
+    {
+        "pinyin": "qián yī zhōu",
+        "chinese": "前一周",
+        "russian": "неделю назад",
+        "english": "a week ago"
+    },
+    {
+        "pinyin": "xià zhōu",
+        "chinese": "下周",
+        "russian": "на следующей неделе",
+        "english": "next week"
+    },
+    {
+        "pinyin": "qián yī nián",
+        "chinese": "前一年",
+        "russian": "год назад",
+        "english": "a year ago"
+    },
+    {
+        "pinyin": "liǎng gè yuè hòu",
+        "chinese": "两个月后",
+        "russian": "через два месяца",
+        "english": "in two months"
+    }
+]

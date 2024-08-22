@@ -1,0 +1,338 @@
+[
+    {
+        "pinyin": "rì",
+        "chinese": "日",
+        "russian": "число",
+        "english": "day/date"
+    },
+    {
+        "pinyin": "hào",
+        "chinese": "号",
+        "russian": "число",
+        "english": "number"
+    },
+    {
+        "pinyin": "tiān",
+        "chinese": "天",
+        "russian": "дней",
+        "english": "days"
+    },
+    {
+        "pinyin": "dānwù",
+        "chinese": "耽误",
+        "russian": "задерживать/откладывать",
+        "english": "delay"
+    },
+    {
+        "pinyin": "cáiwù jīnglǐ",
+        "chinese": "财务经理",
+        "russian": "финансовый менеджер",
+        "english": "financial manager"
+    },
+    {
+        "pinyin": "jiéshù",
+        "chinese": "结束",
+        "russian": "закончить",
+        "english": "end/finish"
+    },
+    {
+        "pinyin": "zhè yī cì",
+        "chinese": "这一次",
+        "russian": "этот раз",
+        "english": "this time"
+    },
+    {
+        "pinyin": "yālì",
+        "chinese": "压力",
+        "russian": "стресс",
+        "english": "stress"
+    },
+    {
+        "pinyin": "qíngkuàng",
+        "chinese": "情况",
+        "russian": "ситуация",
+        "english": "situation"
+    },
+    {
+        "pinyin": "gèng shǎo fàn",
+        "chinese": "更少饭",
+        "russian": "меньше еды",
+        "english": "less food"
+    },
+    {
+        "pinyin": "jiǎn 2 gōngjīn",
+        "chinese": "减2公斤",
+        "russian": "похудеть на 2 кг",
+        "english": "lose 2 kg"
+    },
+    {
+        "pinyin": "wǒ kěyǐ chī yǐqián fàn liàng de 70%",
+        "chinese": "我可以吃以前饭量的70%",
+        "russian": "я могу есть 70% от прежнего объема пищи",
+        "english": "I can eat 70% of my previous food intake"
+    },
+    {
+        "pinyin": "liú",
+        "chinese": "留",
+        "russian": "оставаться",
+        "english": "stay"
+    },
+    {
+        "pinyin": "zhēnxī",
+        "chinese": "珍惜",
+        "russian": "ценить",
+        "english": "cherish"
+    },
+    {
+        "pinyin": "jiànmiàn",
+        "chinese": "见面",
+        "russian": "встретиться",
+        "english": "meet"
+    },
+    {
+        "pinyin": "gǎi cuòwù",
+        "chinese": "改错误",
+        "russian": "исправлять ошибку",
+        "english": "correct mistake"
+    },
+    {
+        "pinyin": "tǎolùn huàtí",
+        "chinese": "讨论话题",
+        "russian": "обсуждать тему",
+        "english": "discuss topic"
+    },
+    {
+        "pinyin": "fēnshǒu",
+        "chinese": "分手",
+        "russian": "расставаться",
+        "english": "break up"
+    },
+    {
+        "pinyin": "cānjù",
+        "chinese": "餐具",
+        "russian": "столовые приборы",
+        "english": "tableware"
+    },
+    {
+        "pinyin": "yīngyǔ wéi mǔyǔ",
+        "chinese": "英语为母语",
+        "russian": "английский как родной язык",
+        "english": "native English speaker"
+    },
+    {
+        "pinyin": "ài'ěrlán",
+        "chinese": "爱尔兰",
+        "russian": "ирландия",
+        "english": "Ireland"
+    },
+    {
+        "pinyin": "āgēntíng",
+        "chinese": "阿根廷",
+        "russian": "аргентина",
+        "english": "Argentina"
+    },
+    {
+        "pinyin": "quánjī",
+        "chinese": "拳击",
+        "russian": "бокс",
+        "english": "boxing"
+    },
+    {
+        "pinyin": "sàichē",
+        "chinese": "赛车",
+        "russian": "гонки (соревнования)",
+        "english": "car racing"
+    },
+    {
+        "pinyin": "yǐqián",
+        "chinese": "以前",
+        "russian": "предыдущий",
+        "english": "previous"
+    },
+    {
+        "pinyin": "lìshǐ zhōngxīn yǒudiǎn er yuǎn",
+        "chinese": "历史中心有点儿远",
+        "russian": "от центра немного далеко",
+        "english": "a bit far from the city center"
+    },
+    {
+        "pinyin": "zhǎng de",
+        "chinese": "长得",
+        "russian": "выглядеть",
+        "english": "look like"
+    },
+    {
+        "pinyin": "bǐ yǐqián de fángzi hǎo",
+        "chinese": "比以前的房子好",
+        "russian": "лучше, чем предыдущий дом",
+        "english": "better than the previous house"
+    },
+    {
+        "pinyin": "dǎsǎo",
+        "chinese": "打扫",
+        "russian": "убирать",
+        "english": "clean"
+    },
+    {
+        "pinyin": "shōushí dōngxi",
+        "chinese": "收拾东西",
+        "russian": "убирать/паковать/укладывать",
+        "english": "tidy up/pack"
+    },
+    {
+        "pinyin": "tàofáng",
+        "chinese": "套房",
+        "russian": "квартира",
+        "english": "apartment"
+    },
+    {
+        "pinyin": "shòuyī",
+        "chinese": "兽医",
+        "russian": "ветеринар",
+        "english": "veterinarian"
+    },
+    {
+        "pinyin": "fēixíngyuán",
+        "chinese": "飞行员",
+        "russian": "пилот",
+        "english": "pilot"
+    },
+    {
+        "pinyin": "qīngjiégōng",
+        "chinese": "清洁工",
+        "russian": "уборщица",
+        "english": "cleaner"
+    },
+    {
+        "pinyin": "shèyǐngshī",
+        "chinese": "摄影师",
+        "russian": "фотограф",
+        "english": "photographer"
+    },
+    {
+        "pinyin": "chéngrén",
+        "chinese": "成人",
+        "russian": "взрослый",
+        "english": "adult"
+    },
+    {
+        "pinyin": "shūcài",
+        "chinese": "蔬菜",
+        "russian": "овощи",
+        "english": "vegetables"
+    },
+    {
+        "pinyin": "bōcài",
+        "chinese": "菠菜",
+        "russian": "шпинат",
+        "english": "spinach"
+    },
+    {
+        "pinyin": "báicài",
+        "chinese": "白菜",
+        "russian": "капуста",
+        "english": "cabbage"
+    },
+    {
+        "pinyin": "huācài",
+        "chinese": "花菜",
+        "russian": "цветная капуста",
+        "english": "cauliflower"
+    },
+    {
+        "pinyin": "xīlánhuā",
+        "chinese": "西兰花",
+        "russian": "брокколи",
+        "english": "broccoli"
+    },
+    {
+        "pinyin": "báiluóbo",
+        "chinese": "白萝卜",
+        "russian": "редис",
+        "english": "radish"
+    },
+    {
+        "pinyin": "qiézi",
+        "chinese": "茄子",
+        "russian": "баклажан",
+        "english": "eggplant"
+    },
+    {
+        "pinyin": "yùmǐ",
+        "chinese": "玉米",
+        "russian": "кукуруза",
+        "english": "corn"
+    },
+    {
+        "pinyin": "bàomǐhuā",
+        "chinese": "爆米花",
+        "russian": "попкорн",
+        "english": "popcorn"
+    },
+    {
+        "pinyin": "dàcōng/yángcōng",
+        "chinese": "大葱/洋葱",
+        "russian": "лук",
+        "english": "onion"
+    },
+    {
+        "pinyin": "dàsuan",
+        "chinese": "大蒜",
+        "russian": "чеснок",
+        "english": "garlic"
+    },
+    {
+        "pinyin": "cóngtóu",
+        "chinese": "从头",
+        "russian": "начать с начала",
+        "english": "start from scratch"
+    },
+    {
+        "pinyin": "cóngtóu",
+        "chinese": "从头",
+        "russian": "репчатый лук",
+        "english": "onion"
+    },
+    {
+        "pinyin": "lìzhī",
+        "chinese": "荔枝",
+        "russian": "личи",
+        "english": "lychee"
+    },
+    {
+        "pinyin": "nánguā",
+        "chinese": "南瓜",
+        "russian": "тыква",
+        "english": "pumpkin"
+    },
+    {
+        "pinyin": "huǒlóngguǒ",
+        "chinese": "火龙果",
+        "russian": "драгонфрукт",
+        "english": "dragon fruit"
+    },
+    {
+        "pinyin": "bǎixiāngguǒ",
+        "chinese": "百香果",
+        "russian": "маракуйя",
+        "english": "passion fruit"
+    },
+    {
+        "pinyin": "wǒ xiànzài bǐ yǐqián xué hànyǔ shǎo yīdiǎnr",
+        "chinese": "我现在比以前学汉语少一点儿",
+        "russian": "я сейчас учу китайский меньше, чем раньше",
+        "english": "I am studying Chinese less than before"
+    },
+    {
+        "pinyin": "diànshìjù",
+        "chinese": "电视剧",
+        "russian": "сериалы",
+        "english": "TV series"
+    },
+    {
+        "pinyin": "xiāoshòu jīnglǐ",
+        "chinese": "销售经理",
+        "russian": "менеджер по продажам",
+        "english": "sales manager"
+    }
+]

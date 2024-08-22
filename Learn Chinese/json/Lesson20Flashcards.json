@@ -1,0 +1,260 @@
+[
+    {
+        "pinyin": "dìqū",
+        "chinese": "地区",
+        "russian": "район",
+        "english": "area"
+    },
+    {
+        "pinyin": "běifāng",
+        "chinese": "北方",
+        "russian": "север (северная сторона)",
+        "english": "north (northern side)"
+    },
+    {
+        "pinyin": "lìfāng",
+        "chinese": "立方",
+        "russian": "куб",
+        "english": "cube"
+    },
+    {
+        "pinyin": "chángfāngxíng",
+        "chinese": "长方形",
+        "russian": "прямоугольник",
+        "english": "rectangle"
+    },
+    {
+        "pinyin": "zhèngfāngxíng",
+        "chinese": "正方形",
+        "russian": "квадрат",
+        "english": "square"
+    },
+    {
+        "pinyin": "qiútǐ",
+        "chinese": "球体",
+        "russian": "шар",
+        "english": "sphere"
+    },
+    {
+        "pinyin": "tǐ",
+        "chinese": "体",
+        "russian": "тело (3D)",
+        "english": "body (3D)"
+    },
+    {
+        "pinyin": "xíng",
+        "chinese": "形",
+        "russian": "форма (2D)",
+        "english": "shape (2D)"
+    },
+    {
+        "pinyin": "yuánzhùtǐ",
+        "chinese": "圆柱体",
+        "russian": "цилиндр",
+        "english": "cylinder"
+    },
+    {
+        "pinyin": "yuánzhuī",
+        "chinese": "圆锥",
+        "russian": "конус",
+        "english": "cone"
+    },
+    {
+        "pinyin": "liúlì",
+        "chinese": "流利",
+        "russian": "беглый",
+        "english": "fluent"
+    },
+    {
+        "pinyin": "wǒ de zhōngwén néng biàn hěn liúlì",
+        "chinese": "我的中文能变很流利",
+        "russian": "мой китайский может стать беглым",
+        "english": "my Chinese can become fluent"
+    },
+    {
+        "pinyin": "hùxiāng míngbái",
+        "chinese": "互相明白",
+        "russian": "понимать друг друга",
+        "english": "understand each other"
+    },
+    {
+        "pinyin": "qiántiān",
+        "chinese": "前天",
+        "russian": "позавчера",
+        "english": "the day before yesterday"
+    },
+    {
+        "pinyin": "yáncháng qiānzhèng",
+        "chinese": "延长签证",
+        "russian": "продливать визу",
+        "english": "extend visa"
+    },
+    {
+        "pinyin": "bàn qiānzhèng",
+        "chinese": "办签证",
+        "russian": "делать визу",
+        "english": "apply for a visa"
+    },
+    {
+        "pinyin": "kèchéng",
+        "chinese": "课程",
+        "russian": "урок",
+        "english": "lesson"
+    },
+    {
+        "pinyin": "zhōngjiè",
+        "chinese": "中介",
+        "russian": "агент/посредник",
+        "english": "agent/mediator"
+    },
+    {
+        "pinyin": "chángshì/shìshì",
+        "chinese": "尝试/试试",
+        "russian": "попробовать",
+        "english": "try"
+    },
+    {
+        "pinyin": "rènhé",
+        "chinese": "任何",
+        "russian": "любой/какой угодно",
+        "english": "any"
+    },
+    {
+        "pinyin": "liú zài",
+        "chinese": "留在",
+        "russian": "оставаться",
+        "english": "stay"
+    },
+    {
+        "pinyin": "bān zài/dào běijīng de zhōngxīn",
+        "chinese": "搬在/到北京的中心",
+        "russian": "переезжать в центр Пекина",
+        "english": "move to the center of Beijing"
+    },
+    {
+        "pinyin": "guójì de",
+        "chinese": "国际的",
+        "russian": "интернациональные",
+        "english": "international"
+    },
+    {
+        "pinyin": "zhè shíhòu huì fēicháng lěng",
+        "chinese": "这时候会非常冷",
+        "russian": "в это время будет очень холодно",
+        "english": "it will be very cold at that time"
+    },
+    {
+        "pinyin": "nà shíhòu tiānqì huì hěn lěng",
+        "chinese": "那时候天气会很冷",
+        "russian": "тогда погода будет очень холодной",
+        "english": "the weather will be very cold then"
+    },
+    {
+        "pinyin": "péixùn zhōngxīn",
+        "chinese": "培训中心",
+        "russian": "тренинг центр",
+        "english": "training center"
+    },
+    {
+        "pinyin": "jīngyàn",
+        "chinese": "经验",
+        "russian": "опыт",
+        "english": "experience"
+    },
+    {
+        "pinyin": "wǒ yǐjīng gāoxìng le duō",
+        "chinese": "我已经高兴了很多",
+        "russian": "намного радостнее стал",
+        "english": "became much happier"
+    },
+    {
+        "pinyin": "jiāoliú",
+        "chinese": "交流",
+        "russian": "общаться",
+        "english": "communicate"
+    },
+    {
+        "pinyin": "fānyì",
+        "chinese": "翻译",
+        "russian": "переводить",
+        "english": "translate"
+    },
+    {
+        "pinyin": "wǒ néng liúlì de shuō hànyǔ",
+        "chinese": "我能流利地说汉语",
+        "russian": "я могу свободно говорить на китайском",
+        "english": "I can speak Chinese fluently"
+    },
+    {
+        "pinyin": "cízhí",
+        "chinese": "辞职",
+        "russian": "увольняться",
+        "english": "resign"
+    },
+    {
+        "pinyin": "guānyú",
+        "chinese": "关于",
+        "russian": "о",
+        "english": "about"
+    },
+    {
+        "pinyin": "zhīdào suǒyǒu de dōngxi",
+        "chinese": "知道所有的东西",
+        "russian": "знать все",
+        "english": "know everything"
+    },
+    {
+        "pinyin": "gēn... bù yīyàng de",
+        "chinese": "跟...不一样的",
+        "russian": "не одинаковый с",
+        "english": "not the same as"
+    },
+    {
+        "pinyin": "yǐngxiǎng",
+        "chinese": "影响",
+        "russian": "влиять",
+        "english": "influence"
+    },
+    {
+        "pinyin": "zàicì",
+        "chinese": "再次",
+        "russian": "снова",
+        "english": "again"
+    },
+    {
+        "pinyin": "gēqǔ",
+        "chinese": "歌曲",
+        "russian": "песня",
+        "english": "song"
+    },
+    {
+        "pinyin": "yuètuán",
+        "chinese": "乐团",
+        "russian": "группа",
+        "english": "band"
+    },
+    {
+        "pinyin": "yáogǔn yuètuán",
+        "chinese": "摇滚乐团",
+        "russian": "рок группа",
+        "english": "rock band"
+    },
+    {
+        "pinyin": "yáogǔn yīnyuè",
+        "chinese": "摇滚音乐",
+        "russian": "рок музыка",
+        "english": "rock music"
+    },
+    {
+        "pinyin": "yīnxiǎng",
+        "chinese": "音响",
+        "russian": "акустический",
+        "english": "acoustic"
+    },
+    {
+        "pinyin": "màikèfēng",
+        "chinese": "麦克风",
+        "russian": "микрофон",
+        "english": "microphone"
+    }
+]

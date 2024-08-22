@@ -1,0 +1,284 @@
+[
+    {
+        "pinyin": "Wǒ kànjiàn le tā",
+        "chinese": "我看见了他",
+        "russian": "Я увидел его",
+        "english": "I saw him"
+    },
+    {
+        "pinyin": "Wǒ gēn tā jiànmiàn",
+        "chinese": "我跟他见面",
+        "russian": "Я встретился с ним",
+        "english": "I met him"
+    },
+    {
+        "pinyin": "Huí jiā",
+        "chinese": "回家",
+        "russian": "Идти домой",
+        "english": "Go home"
+    },
+    {
+        "pinyin": "Qù jiā",
+        "chinese": "去家",
+        "russian": "Идти к дому",
+        "english": "Go to the house"
+    },
+    {
+        "pinyin": "Zài lái yīcì",
+        "chinese": "再来一次",
+        "russian": "Еще раз",
+        "english": "One more time"
+    },
+    {
+        "pinyin": "Wán le jiābān",
+        "chinese": "完了加班",
+        "russian": "Закончил сверхурочную работу",
+        "english": "Finished overtime"
+    },
+    {
+        "pinyin": "Gāngcái",
+        "chinese": "刚才",
+        "russian": "Только что",
+        "english": "Just now"
+    },
+    {
+        "pinyin": "Ànmó",
+        "chinese": "按摩",
+        "russian": "Массаж",
+        "english": "Massage"
+    },
+    {
+        "pinyin": "Yǐqián de gōngzuò",
+        "chinese": "以前的工作",
+        "russian": "Прошлая работа",
+        "english": "Previous job"
+    },
+    {
+        "pinyin": "Wánr le gèng duō",
+        "chinese": "玩儿了更多",
+        "russian": "Играл больше",
+        "english": "Played more"
+    },
+    {
+        "pinyin": "Xīngqī rì",
+        "chinese": "星期日",
+        "russian": "Воскресенье",
+        "english": "Sunday"
+    },
+    {
+        "pinyin": "Zhōumò",
+        "chinese": "周末",
+        "russian": "Выходные",
+        "english": "Weekend"
+    },
+    {
+        "pinyin": "Gōngzuò rì",
+        "chinese": "工作日",
+        "russian": "Рабочие дни",
+        "english": "Workday"
+    },
+    {
+        "pinyin": "Jiù",
+        "chinese": "就",
+        "russian": "Быстро/рано",
+        "english": "Soon/early"
+    },
+    {
+        "pinyin": "Cái",
+        "chinese": "才",
+        "russian": "Поздно/долго",
+        "english": "Late/long"
+    },
+    {
+        "pinyin": "Bā diǎn wǒ jiù lái le",
+        "chinese": "8点我就来了",
+        "russian": "Я пришел в 8 часов",
+        "english": "I came at 8 o'clock"
+    },
+    {
+        "pinyin": "Shí diǎn wǒ cái lái le",
+        "chinese": "10点我才来了",
+        "russian": "Я пришел в 10 часов",
+        "english": "I came at 10 o'clock"
+    },
+    {
+        "pinyin": "Nǐ wèishéme cái lái?",
+        "chinese": "你为什么才来?",
+        "russian": "Почему ты пришел так поздно?",
+        "english": "Why did you come so late?"
+    },
+    {
+        "pinyin": "Wǒ yī nián jiù xuéhuì le hànyǔ",
+        "chinese": "我一年就学会了汉语",
+        "russian": "Я выучил китайский за год",
+        "english": "I learned Chinese in a year"
+    },
+    {
+        "pinyin": "Wǒ gāngcái cái xuéhuì le hànyǔ",
+        "chinese": "我刚才才学会了汉语",
+        "russian": "Я только что выучил китайский",
+        "english": "I just learned Chinese"
+    },
+    {
+        "pinyin": "Xià gè xīngqī",
+        "chinese": "下个星期",
+        "russian": "Следующая неделя",
+        "english": "Next week"
+    },
+    {
+        "pinyin": "Xià zhōu",
+        "chinese": "下周",
+        "russian": "Следующая неделя",
+        "english": "Next week"
+    },
+    {
+        "pinyin": "Dàoqí",
+        "chinese": "到期",
+        "russian": "Истекает срок",
+        "english": "Due"
+    },
+    {
+        "pinyin": "Dàoqí le",
+        "chinese": "到期了",
+        "russian": "Срок истек",
+        "english": "Expired"
+    },
+    {
+        "pinyin": "Xià gè yuè dàoqí",
+        "chinese": "下个月到期",
+        "russian": "Истекает в следующем месяце",
+        "english": "Due next month"
+    },
+    {
+        "pinyin": "Juédìng",
+        "chinese": "决定",
+        "russian": "Решение",
+        "english": "Decision"
+    },
+    {
+        "pinyin": "Dōngxī",
+        "chinese": "东西",
+        "russian": "Вещи",
+        "english": "Things"
+    },
+    {
+        "pinyin": "Gāo yīdiǎn er de gōngzī",
+        "chinese": "高一点儿的工资",
+        "russian": "Чуть более высокая зарплата",
+        "english": "A bit higher salary"
+    },
+    {
+        "pinyin": "Yánchí",
+        "chinese": "延迟",
+        "russian": "Задержка",
+        "english": "Delay"
+    },
+    {
+        "pinyin": "Yǐqián/ Zǎo yīdiǎn er",
+        "chinese": "以前/早一点儿",
+        "russian": "Ранее/чуть раньше",
+        "english": "Before/a little earlier"
+    },
+    {
+        "pinyin": "Shì zhōngxīn",
+        "chinese": "市中心",
+        "russian": "Центр города",
+        "english": "City center"
+    },
+    {
+        "pinyin": "Xìngyùn",
+        "chinese": "幸运",
+        "russian": "Удача",
+        "english": "Luck"
+    },
+    {
+        "pinyin": "Guānyú",
+        "chinese": "关于",
+        "russian": "О (чем-то)",
+        "english": "About"
+    },
+    {
+        "pinyin": "Jiànyì",
+        "chinese": "建议",
+        "russian": "Совет",
+        "english": "Advice"
+    },
+    {
+        "pinyin": "Wǒ yào guānyú jiàoyù liáotiān",
+        "chinese": "我要关于教育聊天",
+        "russian": "Я хочу поговорить об образовании",
+        "english": "I want to chat about education"
+    },
+    {
+        "pinyin": "Liú",
+        "chinese": "留",
+        "russian": "Оставаться",
+        "english": "Stay"
+    },
+    {
+        "pinyin": "Guójì",
+        "chinese": "国际",
+        "russian": "Международный",
+        "english": "International"
+    },
+    {
+        "pinyin": "Huánjìng",
+        "chinese": "环境",
+        "russian": "Окружающая среда",
+        "english": "Environment"
+    },
+    {
+        "pinyin": "Guānyú jiàoyù",
+        "chinese": "关于教育",
+        "russian": "Образование",
+        "english": "About education"
+    },
+    {
+        "pinyin": "Jiàoyù",
+        "chinese": "教育",
+        "russian": "Образование",
+        "english": "Education"
+    },
+    {
+        "pinyin": "Gōng'ānjú",
+        "chinese": "公安局",
+        "russian": "Полиция",
+        "english": "Police station"
+    },
+    {
+        "pinyin": "Mùdì",
+        "chinese": "目的",
+        "russian": "Цель",
+        "english": "Purpose"
+    },
+    {
+        "pinyin": "Shàng zhōu",
+        "chinese": "上周",
+        "russian": "Прошлая неделя",
+        "english": "Last week"
+    },
+    {
+        "pinyin": "Bìmiǎn",
+        "chinese": "避免",
+        "russian": "Избегать",
+        "english": "Avoid"
+    },
+    {
+        "pinyin": "Suīrán",
+        "chinese": "虽然",
+        "russian": "Хотя",
+        "english": "Although"
+    },
+    {
+        "pinyin": "Zìyóu",
+        "chinese": "自由",
+        "russian": "Свобода",
+        "english": "Freedom"
+    },
+    {
+        "pinyin": "Yīkào",
+        "chinese": "依靠",
+        "russian": "Зависеть от",
+        "english": "Depend on"
+    }
+]

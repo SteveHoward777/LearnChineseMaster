@@ -1,0 +1,314 @@
+[
+    {
+        "pinyin": "jùjué",
+        "chinese": "拒绝",
+        "russian": "отказываться",
+        "english": "refuse"
+    },
+    {
+        "pinyin": "yìsi",
+        "chinese": "意思",
+        "russian": "смысл",
+        "english": "meaning"
+    },
+    {
+        "pinyin": "nénglì",
+        "chinese": "能力",
+        "russian": "скилл",
+        "english": "skill"
+    },
+    {
+        "pinyin": "yīgòng",
+        "chinese": "一共",
+        "russian": "все вместе",
+        "english": "altogether"
+    },
+    {
+        "pinyin": "shàngkè",
+        "chinese": "上课",
+        "russian": "быть на уроке",
+        "english": "attend class"
+    },
+    {
+        "pinyin": "bǐjiào cháng de",
+        "chinese": "比较长的",
+        "russian": "длиннее",
+        "english": "longer"
+    },
+    {
+        "pinyin": "kèchéng biǎo",
+        "chinese": "课程表",
+        "russian": "расписание уроков",
+        "english": "timetable"
+    },
+    {
+        "pinyin": "shíjì shàng",
+        "chinese": "实际上",
+        "russian": "на самом деле",
+        "english": "actually"
+    },
+    {
+        "pinyin": "chídào",
+        "chinese": "迟到",
+        "russian": "опаздывать",
+        "english": "be late"
+    },
+    {
+        "pinyin": "wǎn yīdiǎnr",
+        "chinese": "晚一点儿",
+        "russian": "позже",
+        "english": "later"
+    },
+    {
+        "pinyin": "quēdiǎn",
+        "chinese": "缺点",
+        "russian": "недостаток",
+        "english": "disadvantage"
+    },
+    {
+        "pinyin": "quèrèn",
+        "chinese": "确定",
+        "russian": "быть уверенным",
+        "english": "be sure"
+    },
+    {
+        "pinyin": "ānquán",
+        "chinese": "安全",
+        "russian": "безопасность",
+        "english": "safety"
+    },
+    {
+        "pinyin": "cáng",
+        "chinese": "藏",
+        "russian": "прятаться",
+        "english": "hide"
+    },
+    {
+        "pinyin": "ménkǒu/dà ménkǒu",
+        "chinese": "门口/大门口",
+        "russian": "ворота",
+        "english": "gate"
+    },
+    {
+        "pinyin": "lái",
+        "chinese": "来",
+        "russian": "приходить",
+        "english": "come"
+    },
+    {
+        "pinyin": "shèxiàngtóu",
+        "chinese": "摄像头",
+        "russian": "камера",
+        "english": "camera"
+    },
+    {
+        "pinyin": "zìyóu",
+        "chinese": "自由",
+        "russian": "свобода",
+        "english": "freedom"
+    },
+    {
+        "pinyin": "liú gēn tāmen",
+        "chinese": "留跟他们",
+        "russian": "оставаться с ними",
+        "english": "stay with them"
+    },
+    {
+        "pinyin": "chēhuò",
+        "chinese": "车祸",
+        "russian": "дтп",
+        "english": "car accident"
+    },
+    {
+        "pinyin": "zài nǎli wǒ gǎndào hǎo de jīngshén",
+        "chinese": "在那里我感到好的精神",
+        "russian": "там я чувствую себя хорошо",
+        "english": "I feel good there"
+    },
+    {
+        "pinyin": "wǒ de dìqū lí shìzhōngxīn yǒudiǎnr yuǎn",
+        "chinese": "我的地区离市中心有点儿远",
+        "russian": "мой район немного далеко от центра",
+        "english": "my area is a bit far from the center"
+    },
+    {
+        "pinyin": "wǒmen zhīfùle zūfáng fèi",
+        "chinese": "我们支付了租房费",
+        "russian": "мы оплатили аренду",
+        "english": "we paid the rent"
+    },
+    {
+        "pinyin": "zūfáng",
+        "chinese": "租房",
+        "russian": "арендная плата",
+        "english": "rent"
+    },
+    {
+        "pinyin": "tiānránqì / qì",
+        "chinese": "天然气 / 气",
+        "russian": "газ",
+        "english": "gas"
+    },
+    {
+        "pinyin": "fángdōng",
+        "chinese": "房东",
+        "russian": "лэндлорд",
+        "english": "landlord"
+    },
+    {
+        "pinyin": "yājīn",
+        "chinese": "押金",
+        "russian": "залог",
+        "english": "deposit"
+    },
+    {
+        "pinyin": "wǒ gāngcái zhīfùle zūjīn",
+        "chinese": "我刚才支付了租金",
+        "russian": "я только что оплатил аренду",
+        "english": "I just paid the rent"
+    },
+    {
+        "pinyin": "yōudiǎn",
+        "chinese": "优点",
+        "russian": "достоинства",
+        "english": "advantages"
+    },
+    {
+        "pinyin": "bù kàn bié rén",
+        "chinese": "不看别人",
+        "russian": "не смотреть на других",
+        "english": "not look at others"
+    },
+    {
+        "pinyin": "Shèngbǐdébǎo",
+        "chinese": "圣彼得堡",
+        "russian": "Санкт-Петербург",
+        "english": "Saint Petersburg"
+    },
+    {
+        "pinyin": "tā bǐ wǒ dà wǔ suì",
+        "chinese": "他比我大五岁",
+        "russian": "он старше меня на пять лет",
+        "english": "he is five years older than me"
+    },
+    {
+        "pinyin": "gōngzī gāo yīdiǎnr",
+        "chinese": "工资高一点儿",
+        "russian": "зарплата немного выше",
+        "english": "the salary is a bit higher"
+    },
+    {
+        "pinyin": "wǒ cóng tā néng xué hěn duō",
+        "chinese": "我从他能学很多",
+        "russian": "я могу многому научиться от него",
+        "english": "I can learn a lot from him"
+    },
+    {
+        "pinyin": "yǒumíng",
+        "chinese": "有名",
+        "russian": "известный",
+        "english": "famous"
+    },
+    {
+        "pinyin": "jiànyì",
+        "chinese": "建议",
+        "russian": "совет",
+        "english": "advice"
+    },
+    {
+        "pinyin": "zhōngjiè rén",
+        "chinese": "中介人",
+        "russian": "посредник",
+        "english": "intermediary"
+    },
+    {
+        "pinyin": "dàilǐ rén",
+        "chinese": "代理人",
+        "russian": "агент",
+        "english": "agent"
+    },
+    {
+        "pinyin": "bànfǎ",
+        "chinese": "办法",
+        "russian": "способ",
+        "english": "method"
+    },
+    {
+        "pinyin": "Bājīsītǎn",
+        "chinese": "巴基斯坦",
+        "russian": "Пакистан",
+        "english": "Pakistan"
+    },
+    {
+        "pinyin": "chàbuduō",
+        "chinese": "差不多",
+        "russian": "почти",
+        "english": "almost"
+    },
+    {
+        "pinyin": "jīhū",
+        "chinese": "几乎",
+        "russian": "почти",
+        "english": "almost"
+    },
+    {
+        "pinyin": "yǒuyòng",
+        "chinese": "有用",
+        "russian": "полезный",
+        "english": "useful"
+    },
+    {
+        "pinyin": "duì wǒ gōngzuò hǎo",
+        "chinese": "对我工作好",
+        "russian": "для моей работы хорошо",
+        "english": "good for my work"
+    },
+    {
+        "pinyin": "duǎnpiàn",
+        "chinese": "短片",
+        "russian": "короткие отрывки",
+        "english": "short clips"
+    },
+    {
+        "pinyin": "YouTube dào",
+        "chinese": "YouTube道",
+        "russian": "канал YouTube",
+        "english": "YouTube channel"
+    },
+    {
+        "pinyin": "yǎnshuō",
+        "chinese": "演说",
+        "russian": "выступление с речью",
+        "english": "speech"
+    },
+    {
+        "pinyin": "jiějué",
+        "chinese": "解决",
+        "russian": "решать",
+        "english": "solve"
+    },
+    {
+        "pinyin": "jùjué",
+        "chinese": "拒绝",
+        "russian": "отказываться",
+        "english": "refuse"
+    },
+    {
+        "pinyin": "dǎbài",
+        "chinese": "打败",
+        "russian": "побеждать",
+        "english": "defeat"
+    },
+    {
+        "pinyin": "shēnfèn / dìwèi",
+        "chinese": "身份/地位",
+        "russian": "статус",
+        "english": "status"
+    },
+    {
+        "pinyin": "zhuàngtài",
+        "chinese": "状态",
+        "russian": "состояние",
+        "english": "state"
+    }
+]

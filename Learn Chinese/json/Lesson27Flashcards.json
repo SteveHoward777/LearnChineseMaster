@@ -1,0 +1,272 @@
+[
+    {
+        "pinyin": "cáng",
+        "chinese": "藏",
+        "russian": "прятаться",
+        "english": "hide"
+    },
+    {
+        "pinyin": "zhàlán",
+        "chinese": "栅栏",
+        "russian": "забор",
+        "english": "fence"
+    },
+    {
+        "pinyin": "qiáng",
+        "chinese": "墙",
+        "russian": "стена",
+        "english": "wall"
+    },
+    {
+        "pinyin": "pá qiáng",
+        "chinese": "爬墙",
+        "russian": "взбираться на стену",
+        "english": "climb the wall"
+    },
+    {
+        "pinyin": "dǎ chē",
+        "chinese": "打车",
+        "russian": "вызывать такси/брать такси",
+        "english": "hail a taxi"
+    },
+    {
+        "pinyin": "duì wǒ lái shuō",
+        "chinese": "对我来说",
+        "russian": "говоря обо мне/что касается меня",
+        "english": "as for me"
+    },
+    {
+        "pinyin": "fǔdǎo rén",
+        "chinese": "辅导人",
+        "russian": "репетитор",
+        "english": "tutor"
+    },
+    {
+        "pinyin": "kuài yào dào le",
+        "chinese": "快要到了",
+        "russian": "вот-вот придёт",
+        "english": "about to arrive"
+    },
+    {
+        "pinyin": "yóu lè yuán",
+        "chinese": "游乐园",
+        "russian": "парк развлечений",
+        "english": "amusement park"
+    },
+    {
+        "pinyin": "chénglì",
+        "chinese": "成立",
+        "russian": "создавать/открывать",
+        "english": "establish"
+    },
+    {
+        "pinyin": "tóngshì",
+        "chinese": "同事",
+        "russian": "коллега",
+        "english": "colleague"
+    },
+    {
+        "pinyin": "shēngrì pàiduì",
+        "chinese": "生日派对",
+        "russian": "вечеринка по случаю дня рождения",
+        "english": "birthday party"
+    },
+    {
+        "pinyin": "cānjiā",
+        "chinese": "参加",
+        "russian": "участвовать",
+        "english": "participate"
+    },
+    {
+        "pinyin": "chà bù duō kàn wán le",
+        "chinese": "差不多看完了",
+        "russian": "почти закончил смотреть",
+        "english": "almost finished watching"
+    },
+    {
+        "pinyin": "jìnbù",
+        "chinese": "进步",
+        "russian": "прогресс",
+        "english": "progress"
+    },
+    {
+        "pinyin": "fāzhǎn",
+        "chinese": "发展",
+        "russian": "развиваться",
+        "english": "develop"
+    },
+    {
+        "pinyin": "liúlì",
+        "chinese": "流利",
+        "russian": "свободно",
+        "english": "fluent"
+    },
+    {
+        "pinyin": "jìxù zhù zài zhōngguó",
+        "chinese": "继续住在中国",
+        "russian": "продолжать жить в Китае",
+        "english": "continue living in China"
+    },
+    {
+        "pinyin": "míngnián",
+        "chinese": "明年",
+        "russian": "следующий год",
+        "english": "next year"
+    },
+    {
+        "pinyin": "qùnián",
+        "chinese": "去年",
+        "russian": "прошлый год",
+        "english": "last year"
+    },
+    {
+        "pinyin": "kāimén",
+        "chinese": "开门",
+        "russian": "открываться",
+        "english": "open"
+    },
+    {
+        "pinyin": "xīfāng",
+        "chinese": "西方",
+        "russian": "западный",
+        "english": "western"
+    },
+    {
+        "pinyin": "guòshān chē",
+        "chinese": "过山车",
+        "russian": "американские горки",
+        "english": "roller coaster"
+    },
+    {
+        "pinyin": "chéngbǎo",
+        "chinese": "城堡",
+        "russian": "замок (здание)",
+        "english": "castle (building)"
+    },
+    {
+        "pinyin": "hǎidào",
+        "chinese": "海盗",
+        "russian": "пират",
+        "english": "pirate"
+    },
+    {
+        "pinyin": "nóngchǎng",
+        "chinese": "农场",
+        "russian": "ферма",
+        "english": "farm"
+    },
+    {
+        "pinyin": "kǒngbù",
+        "chinese": "恐怖",
+        "russian": "страшный",
+        "english": "scary"
+    },
+    {
+        "pinyin": "tímù",
+        "chinese": "题目",
+        "russian": "тема",
+        "english": "topic"
+    },
+    {
+        "pinyin": "jiémù",
+        "chinese": "节目",
+        "russian": "программа (вечеринки)",
+        "english": "program (of a party)"
+    },
+    {
+        "pinyin": "yǒu xūqiú de",
+        "chinese": "有需求的",
+        "russian": "востребованный",
+        "english": "in demand"
+    },
+    {
+        "pinyin": "jìshù",
+        "chinese": "技术",
+        "russian": "технология",
+        "english": "technology"
+    },
+    {
+        "pinyin": "chéngxù",
+        "chinese": "程序",
+        "russian": "программа (программирование)",
+        "english": "program (programming)"
+    },
+    {
+        "pinyin": "fāzhǎn de zuì kuài",
+        "chinese": "发展的最快",
+        "russian": "развивается быстрее всего",
+        "english": "developing the fastest"
+    },
+    {
+        "pinyin": "liàngzǐ jìsuànjī",
+        "chinese": "量子计算机",
+        "russian": "квантовый компьютер",
+        "english": "quantum computer"
+    },
+    {
+        "pinyin": "kāifā",
+        "chinese": "开发",
+        "russian": "разработчик",
+        "english": "developer"
+    },
+    {
+        "pinyin": "wǎngzhàn",
+        "chinese": "网站",
+        "russian": "сайт",
+        "english": "website"
+    },
+    {
+        "pinyin": "hǎoláiwù",
+        "chinese": "好莱坞",
+        "russian": "Голливуд",
+        "english": "Hollywood"
+    },
+    {
+        "pinyin": "lìhài",
+        "chinese": "厉害",
+        "russian": "круто",
+        "english": "awesome"
+    },
+    {
+        "pinyin": "nǐ róngyì bèi hàipà ma?",
+        "chinese": "你容易被害怕吗?",
+        "russian": "ты легко пугаешься?",
+        "english": "are you easily scared?"
+    },
+    {
+        "pinyin": "dàngāo bèi wǒ chī le",
+        "chinese": "蛋糕被我吃了",
+        "russian": "торт был съеден мной",
+        "english": "the cake was eaten by me"
+    },
+    {
+        "pinyin": "dāng",
+        "chinese": "当",
+        "russian": "становиться",
+        "english": "become"
+    },
+    {
+        "pinyin": "dāng lǎoshī",
+        "chinese": "当老师",
+        "russian": "стать учителем",
+        "english": "become a teacher"
+    },
+    {
+        "pinyin": "shàngxué",
+        "chinese": "上学",
+        "russian": "ходить на учебу",
+        "english": "go to school"
+    },
+    {
+        "pinyin": "liúxíng",
+        "chinese": "流行",
+        "russian": "популярный",
+        "english": "popular"
+    },
+    {
+        "pinyin": "wǒ quē yībùfèn de chéngxù zhīshì",
+        "chinese": "我缺一部分的程序知识",
+        "russian": "мне не хватает части знаний о программировании",
+        "english": "I lack some programming knowledge"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "pinyin": "Chéngyì",
+        "chinese": "成意",
+        "russian": "Умножить",
+        "english": "Multiply"
+    },
+    {
+        "pinyin": "Wèilái",
+        "chinese": "未来",
+        "russian": "Будущее",
+        "english": "Future"
+    },
+    {
+        "pinyin": "Dà mùdì",
+        "chinese": "大目的",
+        "russian": "Ставить цель",
+        "english": "Set a goal"
+    },
+    {
+        "pinyin": "Gèng duō lìqì",
+        "chinese": "更多力气",
+        "russian": "Больше сил",
+        "english": "More strength"
+    },
+    {
+        "pinyin": "Néng zuò bǐ xiànzài gèng duō dōngxī",
+        "chinese": "能做比现在更多东西",
+        "russian": "Добиваться больше",
+        "english": "Achieve more"
+    },
+    {
+        "pinyin": "Dǎdào",
+        "chinese": "达到",
+        "russian": "Достигать",
+        "english": "To reach"
+    },
+    {
+        "pinyin": "Wùlǐ",
+        "chinese": "物理",
+        "russian": "Физика",
+        "english": "Physics"
+    },
+    {
+        "pinyin": "Làngfèi shíjiān",
+        "chinese": "浪费时间",
+        "russian": "Тратить время впустую",
+        "english": "Waste time"
+    },
+    {
+        "pinyin": "Zài cì",
+        "chinese": "再次",
+        "russian": "Еще раз",
+        "english": "Once more"
+    },
+    {
+        "pinyin": "Xīn wén",
+        "chinese": "新闻",
+        "russian": "Новости",
+        "english": "News"
+    },
+    {
+        "pinyin": "Qī shí yī",
+        "chinese": "七十一",
+        "russian": "Семьдесят один",
+        "english": "Seventy-one"
+    },
+    {
+        "pinyin": "Zhè yě shì wǒ de mùdì",
+        "chinese": "这也是我的目的",
+        "russian": "Это тоже моя цель",
+        "english": "This is also my goal"
+    },
+    {
+        "pinyin": "Sì yì měiyuán",
+        "chinese": "四亿美元",
+        "russian": "Четыреста миллионов долларов",
+        "english": "Four hundred million dollars"
+    },
+    {
+        "pinyin": "Sìshí yì měiyuán",
+        "chinese": "四十亿美元",
+        "russian": "Четыре миллиарда долларов",
+        "english": "Four billion dollars"
+    },
+    {
+        "pinyin": "Jiādà shí cì",
+        "chinese": "加大十次",
+        "russian": "Увеличить в десять раз",
+        "english": "Increase tenfold"
+    },
+    {
+        "pinyin": "Shēng yī shū",
+        "chinese": "声一书",
+        "russian": "Аудиокнига",
+        "english": "Audiobook"
+    },
+    {
+        "pinyin": "Zhǎng dà",
+        "chinese": "长大",
+        "russian": "Стать большим",
+        "english": "Grow up"
+    },
+    {
+        "pinyin": "Chū jìng",
+        "chinese": "出境",
+        "russian": "Выезжать за границу",
+        "english": "Go abroad"
+    },
+    {
+        "pinyin": "Bù shǔo huā",
+        "chinese": "不说话",
+        "russian": "Молчать",
+        "english": "Keep silent"
+    },
+    {
+        "pinyin": "Bù shuō huà hěn duō",
+        "chinese": "不说话很多",
+        "russian": "Молчать много",
+        "english": "Keep very silent"
+    },
+    {
+        "pinyin": "Yǐngxiǎng wǒ",
+        "chinese": "影响我",
+        "russian": "Повлиять на меня",
+        "english": "Influence me"
+    },
+    {
+        "pinyin": "Dùi wǒ yǒu hěn dà de yǐngxiǎng",
+        "chinese": "对我有很大的影响",
+        "russian": "Оказать на меня большое влияние",
+        "english": "Have a big influence on me"
+    },
+    {
+        "pinyin": "Néng kòngzhì zìjǐ de sīwéi",
+        "chinese": "能控制自己的思维",
+        "russian": "Контролировать свои мысли",
+        "english": "Control one's thoughts"
+    },
+    {
+        "pinyin": "Qǔzhù zài bālí dǎo",
+        "chinese": "驻足在巴黎岛",
+        "russian": "Остановиться на острове Бали",
+        "english": "Stay on Bali island"
+    },
+    {
+        "pinyin": "Kòngzhì",
+        "chinese": "控制",
+        "russian": "Контролировать",
+        "english": "Control"
+    },
+    {
+        "pinyin": "Guānxi",
+        "chinese": "关系",
+        "russian": "Отношения",
+        "english": "Relationship"
+    },
+    {
+        "pinyin": "Chūjìng chū wūkèlán de jìng",
+        "chinese": "出境出乌克兰的境",
+        "russian": "Выехать за пределы Украины",
+        "english": "Exit the territory of Ukraine"
+    },
+    {
+        "pinyin": "Wǒmen zhīdào néng zuò shénme dōngxī",
+        "chinese": "我们知道能做什么东西",
+        "russian": "Мы знаем, что можем делать",
+        "english": "We know what we can do"
+    },
+    {
+        "pinyin": "Zuì yǒuxiào de bànfǎ",
+        "chinese": "最有效的办法",
+        "russian": "Самый эффективный способ",
+        "english": "The most effective method"
+    },
+    {
+        "pinyin": "Bùfen",
+        "chinese": "部分",
+        "russian": "Часть",
+        "english": "Part"
+    },
+    {
+        "pinyin": "Wǒ mùdì de yī bùfen",
+        "chinese": "我的目的的一部分",
+        "russian": "Часть моей цели",
+        "english": "Part of my goal"
+    },
+    {
+        "pinyin": "Dà de dǎo",
+        "chinese": "大得到",
+        "russian": "Получить много",
+        "english": "Get a lot"
+    },
+    {
+        "pinyin": "Dà bù dǎo",
+        "chinese": "大不到",
+        "russian": "Не получить много",
+        "english": "Not get much"
+    },
+    {
+        "pinyin": "Kàn de dǎo",
+        "chinese": "看得到",
+        "russian": "Могу увидеть",
+        "english": "Can see"
+    },
+    {
+        "pinyin": "Kàn bù dǎo",
+        "chinese": "看不到",
+        "russian": "Не могу увидеть",
+        "english": "Cannot see"
+    },
+    {
+        "pinyin": "Qīnmì",
+        "chinese": "亲密",
+        "russian": "Близкий",
+        "english": "Close"
+    },
+    {
+        "pinyin": "Diu shī sù dù",
+        "chinese": "丢失速度",
+        "russian": "Терять скорость",
+        "english": "Lose speed"
+    },
+    {
+        "pinyin": "Diu shī",
+        "chinese": "丢失",
+        "russian": "Потерять",
+        "english": "Lose"
+    },
+    {
+        "pinyin": "Zhǐ shǎo",
+        "chinese": "至少",
+        "russian": "Как минимум",
+        "english": "At least"
+    },
+    {
+        "pinyin": "Zhīchí",
+        "chinese": "支持",
+        "russian": "Поддерживать",
+        "english": "Support"
+    },
+    {
+        "pinyin": "Zhè shì yǒuyòng",
+        "chinese": "这是有用",
+        "russian": "Это полезно",
+        "english": "This is useful"
+    },
+    {
+        "pinyin": "Zhè shì hěn yǒuyòng de",
+        "chinese": "这是很有用的",
+        "russian": "Это очень полезно",
+        "english": "This is very useful"
+    },
+    {
+        "pinyin": "Pínghéng",
+        "chinese": "平衡",
+        "russian": "Баланс",
+        "english": "Balance"
+    },
+    {
+        "pinyin": "Jī huì",
+        "chinese": "机会",
+        "russian": "Возможность",
+        "english": "Opportunity"
+    }
+]

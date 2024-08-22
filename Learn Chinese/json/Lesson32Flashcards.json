@@ -1,0 +1,350 @@
+[
+    {
+        "pinyin": "zàicì",
+        "chinese": "再次",
+        "russian": "опять/снова",
+        "english": "again"
+    },
+    {
+        "pinyin": "qiántiān",
+        "chinese": "前天",
+        "russian": "позавчера",
+        "english": "the day before yesterday"
+    },
+    {
+        "pinyin": "tóuyūn",
+        "chinese": "头晕",
+        "russian": "кружится голова",
+        "english": "dizzy"
+    },
+    {
+        "pinyin": "wǒ yǒudiǎnr tóuyūn",
+        "chinese": "我有点儿头晕",
+        "russian": "у меня немного кружится голова",
+        "english": "I feel a bit dizzy"
+    },
+    {
+        "pinyin": "wǒ méi qù",
+        "chinese": "我没去",
+        "russian": "я не пошел",
+        "english": "I didn't go"
+    },
+    {
+        "pinyin": "diànyǐng yuàn",
+        "chinese": "电影院",
+        "russian": "кинотеатр",
+        "english": "cinema"
+    },
+    {
+        "pinyin": "diànyǐng",
+        "chinese": "电影",
+        "russian": "фильм",
+        "english": "movie"
+    },
+    {
+        "pinyin": "juédìng",
+        "chinese": "决定",
+        "russian": "решение",
+        "english": "decision"
+    },
+    {
+        "pinyin": "wǒ lián xiànzài",
+        "chinese": "我连现在",
+        "russian": "даже сейчас",
+        "english": "even now"
+    },
+    {
+        "pinyin": "chéngjiù",
+        "chinese": "成就",
+        "russian": "достижение",
+        "english": "achievement"
+    },
+    {
+        "pinyin": "cóng kāishǐ",
+        "chinese": "从开始",
+        "russian": "с начала",
+        "english": "from the beginning"
+    },
+    {
+        "pinyin": "biān wán",
+        "chinese": "编完",
+        "russian": "закончить писать",
+        "english": "finish writing"
+    },
+    {
+        "pinyin": "néng mǎi dào",
+        "chinese": "能买到",
+        "russian": "купить",
+        "english": "can buy"
+    },
+    {
+        "pinyin": "yāoqiú",
+        "chinese": "要求",
+        "russian": "требование",
+        "english": "requirement"
+    },
+    {
+        "pinyin": "lián píngmù",
+        "chinese": "连屏幕",
+        "russian": "подключиться к экрану",
+        "english": "connect to the screen"
+    },
+    {
+        "pinyin": "zhēngxī",
+        "chinese": "珍惜",
+        "russian": "ценить",
+        "english": "cherish"
+    },
+    {
+        "pinyin": "guānxì",
+        "chinese": "关系",
+        "russian": "отношения",
+        "english": "relationship"
+    },
+    {
+        "pinyin": "gěi/gen tāmen wánr",
+        "chinese": "给/跟他们玩儿",
+        "russian": "играть с ними",
+        "english": "play with them"
+    },
+    {
+        "pinyin": "jiějué wèntí",
+        "chinese": "解决问题",
+        "russian": "решить вопрос",
+        "english": "solve the problem"
+    },
+    {
+        "pinyin": "fúwù",
+        "chinese": "服务",
+        "russian": "сервис/услуги",
+        "english": "service"
+    },
+    {
+        "pinyin": "wǒ néng shàngxiàn gōngzuò",
+        "chinese": "我能上网工作",
+        "russian": "работать онлайн могу",
+        "english": "I can work online"
+    },
+    {
+        "pinyin": "cónglái bù",
+        "chinese": "从来不",
+        "russian": "никогда не делает",
+        "english": "never does"
+    },
+    {
+        "pinyin": "cónglái méi",
+        "chinese": "从来没",
+        "russian": "никогда не делал",
+        "english": "never did"
+    },
+    {
+        "pinyin": "xīcān",
+        "chinese": "西餐",
+        "russian": "западная кухня",
+        "english": "western food"
+    },
+    {
+        "pinyin": "bù jīngcháng",
+        "chinese": "不经常",
+        "russian": "редко/не часто",
+        "english": "not often"
+    },
+    {
+        "pinyin": "jiārù wǒmen yīqǐ wánr",
+        "chinese": "加入我们一起玩儿",
+        "russian": "присоединились к нам",
+        "english": "joined us to play"
+    },
+    {
+        "pinyin": "yāoqǐng/qǐng",
+        "chinese": "邀请/请",
+        "russian": "приглашать",
+        "english": "invite"
+    },
+    {
+        "pinyin": "jièjué",
+        "chinese": "拒绝",
+        "russian": "отказываться",
+        "english": "refuse"
+    },
+    {
+        "pinyin": "liú zài jiā",
+        "chinese": "留在家",
+        "russian": "оставаться дома",
+        "english": "stay at home"
+    },
+    {
+        "pinyin": "bānjiā",
+        "chinese": "搬家",
+        "russian": "переезжать",
+        "english": "move house"
+    },
+    {
+        "pinyin": "liǎng gè yuè yǐhòu wǒ dǎsuàn bānjiā",
+        "chinese": "两个月以后我打算搬家",
+        "russian": "через два месяца я планирую переехать",
+        "english": "I plan to move in two months"
+    },
+    {
+        "pinyin": "A lǐ B hěn yuǎn",
+        "chinese": "A离B很远",
+        "russian": "А далеко от В",
+        "english": "A is far from B"
+    },
+    {
+        "pinyin": "wǒ lí shì zhōngxīn hěn yuǎn",
+        "chinese": "我离市中心很远",
+        "russian": "я далеко от центра города",
+        "english": "I am far from the city center"
+    },
+    {
+        "pinyin": "gōng lǐ",
+        "chinese": "公里",
+        "russian": "км",
+        "english": "km"
+    },
+    {
+        "pinyin": "bù gòu kànzhòng",
+        "chinese": "不够看重",
+        "russian": "недооценивать",
+        "english": "underestimate"
+    },
+    {
+        "pinyin": "bù gòu zhùyì",
+        "chinese": "不够注意",
+        "russian": "не уделять внимания",
+        "english": "not pay enough attention"
+    },
+    {
+        "pinyin": "shìhé de dìfāng",
+        "chinese": "适合的地方",
+        "russian": "подходящее место",
+        "english": "suitable place"
+    },
+    {
+        "pinyin": "pútáo yá",
+        "chinese": "葡萄牙",
+        "russian": "Португалия",
+        "english": "Portugal"
+    },
+    {
+        "pinyin": "jiā lì fú ní yà",
+        "chinese": "加利福尼亚",
+        "russian": "Калифорния",
+        "english": "California"
+    },
+    {
+        "pinyin": "wǒ gēn rénzàozhìnéng yīqǐ biānchéng",
+        "chinese": "我跟人造智能一起编程",
+        "russian": "я программирую с ИИ",
+        "english": "I program with AI"
+    },
+    {
+        "pinyin": "biānchéng",
+        "chinese": "编程",
+        "russian": "писать программу",
+        "english": "programming"
+    },
+    {
+        "pinyin": "biānchéng yī wán de shíhòu",
+        "chinese": "编程一完的时候",
+        "russian": "после завершения программирования",
+        "english": "when programming is finished"
+    },
+    {
+        "pinyin": "wǎngluò de chéngxù yuán",
+        "chinese": "网络的程序员",
+        "russian": "онлайн программист",
+        "english": "online programmer"
+    },
+    {
+        "pinyin": "chéngxù dàimǎ",
+        "chinese": "程序代码",
+        "russian": "код программы",
+        "english": "program code"
+    },
+    {
+        "pinyin": "zìjǐ de sīxiǎng",
+        "chinese": "自己的思想",
+        "russian": "собственные мысли",
+        "english": "own thoughts"
+    },
+    {
+        "pinyin": "fāzhǎn",
+        "chinese": "发展",
+        "russian": "развиваться",
+        "english": "develop"
+    },
+    {
+        "pinyin": "chéngjiù",
+        "chinese": "成就",
+        "russian": "достижение",
+        "english": "achievement"
+    },
+    {
+        "pinyin": "méi jiàn tā",
+        "chinese": "没见她",
+        "russian": "не встречал ее",
+        "english": "didn't meet her"
+    },
+    {
+        "pinyin": "xiāngxìn",
+        "chinese": "相信",
+        "russian": "верить",
+        "english": "believe"
+    },
+    {
+        "pinyin": "wǒ néng shàngxiàn gōngzuò",
+        "chinese": "我能上网工作",
+        "russian": "работать онлайн могу",
+        "english": "I can work online"
+    },
+    {
+        "pinyin": "yāoqiú",
+        "chinese": "要求",
+        "russian": "требование",
+        "english": "requirement"
+    },
+    {
+        "pinyin": "zhèngxī",
+        "chinese": "珍惜",
+        "russian": "ценить",
+        "english": "cherish"
+    },
+    {
+        "pinyin": "guānxì",
+        "chinese": "关系",
+        "russian": "отношения",
+        "english": "relationship"
+    },
+    {
+        "pinyin": "zhěngtiān",
+        "chinese": "整天",
+        "russian": "целый день",
+        "english": "all day"
+    },
+    {
+        "pinyin": "liánxì",
+        "chinese": "联系",
+        "russian": "контактировать",
+        "english": "contact"
+    },
+    {
+        "pinyin": "fēngkuáng",
+        "chinese": "疯狂",
+        "russian": "сумасшедший",
+        "english": "crazy"
+    },
+    {
+        "pinyin": "zhǔyì",
+        "chinese": "注意",
+        "russian": "внимание",
+        "english": "attention"
+    },
+    {
+        "pinyin": "xīwàng",
+        "chinese": "希望",
+        "russian": "надеяться",
+        "english": "hope"
+    }
+]

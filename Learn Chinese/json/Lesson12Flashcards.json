@@ -1,0 +1,326 @@
+[
+    {
+        "pinyin": "jiànmiàn le péngyǒu",
+        "chinese": "见面了朋友",
+        "russian": "встретил друга",
+        "english": "met a friend"
+    },
+    {
+        "pinyin": "gēn péngyǒu jiànmiàn",
+        "chinese": "跟朋友见面",
+        "russian": "встретиться с другом",
+        "english": "meet with a friend"
+    },
+    {
+        "pinyin": "jiàn le péngyǒu",
+        "chinese": "见了朋友",
+        "russian": "встретил друга",
+        "english": "met a friend"
+    },
+    {
+        "pinyin": "yīnxiāng",
+        "chinese": "音箱",
+        "russian": "колонка",
+        "english": "speaker"
+    },
+    {
+        "pinyin": "diànnǎo yóuxì",
+        "chinese": "电脑游戏",
+        "russian": "компьютерная игра",
+        "english": "computer game"
+    },
+    {
+        "pinyin": "shàng zhōu wǒ zuò le shénme",
+        "chinese": "上周我做了什么",
+        "russian": "что я делал на прошлой неделе",
+        "english": "what did I do last week"
+    },
+    {
+        "pinyin": "huíqù jiā",
+        "chinese": "回去家",
+        "russian": "вернуться домой",
+        "english": "go home"
+    },
+    {
+        "pinyin": "huí jiā qù",
+        "chinese": "回家去",
+        "russian": "пойти домой",
+        "english": "go home"
+    },
+    {
+        "pinyin": "shàng lái",
+        "chinese": "上来",
+        "russian": "к тебе",
+        "english": "come up"
+    },
+    {
+        "pinyin": "shàng qù",
+        "chinese": "上去",
+        "russian": "от тебя",
+        "english": "go up"
+    },
+    {
+        "pinyin": "jìn lái",
+        "chinese": "进来",
+        "russian": "заходи (ко мне)",
+        "english": "come in"
+    },
+    {
+        "pinyin": "jìn qù",
+        "chinese": "进去",
+        "russian": "входи (от меня)",
+        "english": "go in"
+    },
+    {
+        "pinyin": "jìn jiàoshì qù",
+        "chinese": "进教室去",
+        "russian": "войти в класс",
+        "english": "enter the classroom"
+    },
+    {
+        "pinyin": "dài zuòyè lái",
+        "chinese": "带作业来",
+        "russian": "приносить задание",
+        "english": "bring homework"
+    },
+    {
+        "pinyin": "dài lái zuòyè",
+        "chinese": "带来作业",
+        "russian": "приносить задание",
+        "english": "bring homework"
+    },
+    {
+        "pinyin": "tā dǎsuàn le huíguó",
+        "chinese": "他打算了回国",
+        "russian": "он планировал вернуться на родину",
+        "english": "he planned to return to his country"
+    },
+    {
+        "pinyin": "ānpái",
+        "chinese": "安排",
+        "russian": "организовать",
+        "english": "arrange"
+    },
+    {
+        "pinyin": "yáncháng",
+        "chinese": "延长",
+        "russian": "продолжать",
+        "english": "extend"
+    },
+    {
+        "pinyin": "tā kuài huí jiā le",
+        "chinese": "他快回家了",
+        "russian": "он скоро будет дома",
+        "english": "he will be home soon"
+    },
+    {
+        "pinyin": "kuài yào ... le",
+        "chinese": "快要...了",
+        "russian": "вот вот.. (скоро)",
+        "english": "about to..."
+    },
+    {
+        "pinyin": "wǒmen hěn shǎo jiànmiàn",
+        "chinese": "我们很少见面",
+        "russian": "мы редко видимся",
+        "english": "we rarely meet"
+    },
+    {
+        "pinyin": "bāng wǒ qīngsōng yīxià",
+        "chinese": "帮我轻松一下",
+        "russian": "помоги мне расслабиться",
+        "english": "help me relax"
+    },
+    {
+        "pinyin": "bālěiwǔ",
+        "chinese": "芭蕾舞",
+        "russian": "балет",
+        "english": "ballet"
+    },
+    {
+        "pinyin": "Mòsīkē",
+        "chinese": "莫斯科",
+        "russian": "Москва",
+        "english": "Moscow"
+    },
+    {
+        "pinyin": "zài Mòsīkē de bālěiwǔ",
+        "chinese": "在莫斯科的芭蕾舞",
+        "russian": "балет в Москве",
+        "english": "ballet in Moscow"
+    },
+    {
+        "pinyin": "yǎnchū",
+        "chinese": "演出",
+        "russian": "выступать",
+        "english": "perform"
+    },
+    {
+        "pinyin": "biǎoyǎn",
+        "chinese": "表演",
+        "russian": "выступление",
+        "english": "performance"
+    },
+    {
+        "pinyin": "zuì zāogāo de",
+        "chinese": "最糟糕的",
+        "russian": "самый худший",
+        "english": "the worst"
+    },
+    {
+        "pinyin": "zhōngděng",
+        "chinese": "中等",
+        "russian": "средний",
+        "english": "average"
+    },
+    {
+        "pinyin": "Duānwǔ Jié",
+        "chinese": "端午节",
+        "russian": "фестиваль драконьих лодок",
+        "english": "Dragon Boat Festival"
+    },
+    {
+        "pinyin": "jiàrì",
+        "chinese": "假日",
+        "russian": "выходные",
+        "english": "holiday"
+    },
+    {
+        "pinyin": "jiérì",
+        "chinese": "节日",
+        "russian": "праздник",
+        "english": "festival"
+    },
+    {
+        "pinyin": "wǒ bù zhīdào jiérì huì zuò shénme",
+        "chinese": "我不知道节日会做什么",
+        "russian": "я не знаю что буду делать на празднике",
+        "english": "I don't know what to do on the festival"
+    },
+    {
+        "pinyin": "fù liǎng bèi de jiàgé",
+        "chinese": "付两倍的价格",
+        "russian": "платить вдвое больше",
+        "english": "pay twice the price"
+    },
+    {
+        "pinyin": "rènào",
+        "chinese": "热闹",
+        "russian": "шумно, людно",
+        "english": "lively"
+    },
+    {
+        "pinyin": "wǒ gèng hǎo liú zài jiā",
+        "chinese": "我更好留在家",
+        "russian": "лучше остаться дома",
+        "english": "better stay at home"
+    },
+    {
+        "pinyin": "jíshǐ...yě...",
+        "chinese": "即使...也...",
+        "russian": "даже если... я все равно...",
+        "english": "even if... still..."
+    },
+    {
+        "pinyin": "zūfáng",
+        "chinese": "租房",
+        "russian": "снимать жилье",
+        "english": "rent a house"
+    },
+    {
+        "pinyin": "liǎng gè yuè qián",
+        "chinese": "两个月前",
+        "russian": "два месяца назад",
+        "english": "two months ago"
+    },
+    {
+        "pinyin": "hěn yǒuqián rén",
+        "chinese": "很有钱人",
+        "russian": "богатый человек",
+        "english": "rich person"
+    },
+    {
+        "pinyin": "fùyù de rén",
+        "chinese": "富裕的人",
+        "russian": "богатый человек",
+        "english": "wealthy person"
+    },
+    {
+        "pinyin": "Hǎilì Bōtè",
+        "chinese": "哈利波特",
+        "russian": "Гарри Поттер",
+        "english": "Harry Potter"
+    },
+    {
+        "pinyin": "duì...xíguàn",
+        "chinese": "对...习惯",
+        "russian": "привыкнуть к чему-то",
+        "english": "get used to something"
+    },
+    {
+        "pinyin": "zhùyì",
+        "chinese": "注意",
+        "russian": "следить за",
+        "english": "pay attention to"
+    },
+    {
+        "pinyin": "fāngshì",
+        "chinese": "方式",
+        "russian": "метод",
+        "english": "method"
+    },
+    {
+        "pinyin": "fāngfǎ",
+        "chinese": "方法",
+        "russian": "метод",
+        "english": "method"
+    },
+    {
+        "pinyin": "wǒ jiāo de fāngfǎ",
+        "chinese": "我教的方法",
+        "russian": "мой метод",
+        "english": "my method"
+    },
+    {
+        "pinyin": "jiàoyù shuǐpíng",
+        "chinese": "教育水平",
+        "russian": "уровень образования",
+        "english": "education level"
+    },
+    {
+        "pinyin": "zūnshǒu",
+        "chinese": "遵守",
+        "russian": "следовать чему-то",
+        "english": "follow"
+    },
+    {
+        "pinyin": "huàr",
+        "chinese": "画儿",
+        "russian": "картина",
+        "english": "painting"
+    },
+    {
+        "pinyin": "yǒumíng shēngyìrén de huàr",
+        "chinese": "有名生意人的画儿",
+        "russian": "картина известного бизнесмена",
+        "english": "famous businessman's painting"
+    },
+    {
+        "pinyin": "érqiě",
+        "chinese": "而且",
+        "russian": "к тому же",
+        "english": "moreover"
+    },
+    {
+        "pinyin": "mùbiāo",
+        "chinese": "目标",
+        "russian": "цель",
+        "english": "goal"
+    },
+    {
+        "pinyin": "mùdì",
+        "chinese": "目的",
+        "russian": "цель",
+        "english": "purpose"
+    }
+]

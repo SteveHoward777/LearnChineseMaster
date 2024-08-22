@@ -1,0 +1,206 @@
+[
+    {
+        "pinyin": "zhè běn shū wǒ kàn le yí bàn",
+        "chinese": "这本书我看了一半",
+        "russian": "я прочитал половину этой книги",
+        "english": "I read half of this book"
+    },
+    {
+        "pinyin": "gōngzuò rì/qī",
+        "chinese": "工作日/期",
+        "russian": "рабочий день",
+        "english": "working day"
+    },
+    {
+        "pinyin": "jiérì de dì yī tiān",
+        "chinese": "节日的第一天",
+        "russian": "первый день праздника",
+        "english": "first day of the holiday"
+    },
+    {
+        "pinyin": "zhuàngtài",
+        "chinese": "状态",
+        "russian": "состояние",
+        "english": "state"
+    },
+    {
+        "pinyin": "qīzhōng zhùyì lì",
+        "chinese": "期中注意力",
+        "russian": "сфокусироваться",
+        "english": "focus"
+    },
+    {
+        "pinyin": "zhìshǎo",
+        "chinese": "至少",
+        "russian": "по крайней мере/at least",
+        "english": "at least"
+    },
+    {
+        "pinyin": "wǒ zhīshǎo xūyào liǎng nián de shíjiān lái xué",
+        "chinese": "我至少需要两年的时间来学",
+        "russian": "мне нужно по крайней мере два года, чтобы учиться",
+        "english": "I need at least two years to learn"
+    },
+    {
+        "pinyin": "biànchéng",
+        "chinese": "变成",
+        "russian": "становиться",
+        "english": "become"
+    },
+    {
+        "pinyin": "wǒ duì shū yǒu/gǎn xìngqù",
+        "chinese": "我对书有/感兴趣",
+        "russian": "я интересуюсь книгами",
+        "english": "I am interested in books"
+    },
+    {
+        "pinyin": "wàimào",
+        "chinese": "外貌",
+        "russian": "внешность",
+        "english": "appearance"
+    },
+    {
+        "pinyin": "yī mào chūn rén",
+        "chinese": "依貌取人",
+        "russian": "выбирать по внешности",
+        "english": "judge by appearance"
+    },
+    {
+        "pinyin": "chéngxù yuán",
+        "chinese": "程序员",
+        "russian": "программист",
+        "english": "programmer"
+    },
+    {
+        "pinyin": "zài dàxué xuéxí le bàn nián",
+        "chinese": "在大学学习了半年",
+        "russian": "учился в университете полгода",
+        "english": "studied at university for half a year"
+    },
+    {
+        "pinyin": "yōudiǎn",
+        "chinese": "优点",
+        "russian": "преимущества",
+        "english": "advantages"
+    },
+    {
+        "pinyin": "quēdiǎn",
+        "chinese": "缺点",
+        "russian": "недостатки",
+        "english": "disadvantages"
+    },
+    {
+        "pinyin": "guò le jiérì",
+        "chinese": "过了节日",
+        "russian": "праздник прошел",
+        "english": "the holiday is over"
+    },
+    {
+        "pinyin": "guò wán le jiérì",
+        "chinese": "过完了节日",
+        "russian": "праздник закончился",
+        "english": "the holiday is finished"
+    },
+    {
+        "pinyin": "bǎochí",
+        "chinese": "保持",
+        "russian": "поддерживать",
+        "english": "maintain"
+    },
+    {
+        "pinyin": "zhòngyào",
+        "chinese": "重要",
+        "russian": "важный",
+        "english": "important"
+    },
+    {
+        "pinyin": "lùchéng",
+        "chinese": "路程",
+        "russian": "дорога/путь",
+        "english": "journey"
+    },
+    {
+        "pinyin": "màoxiǎn",
+        "chinese": "冒险",
+        "russian": "рисковать/идти на риск",
+        "english": "take a risk"
+    },
+    {
+        "pinyin": "nǐ ràng nǐ de shēnghuó gèng yǒuyìsi",
+        "chinese": "你让你的生活更有意思",
+        "russian": "сделай свою жизнь более интересной",
+        "english": "make your life more interesting"
+    },
+    {
+        "pinyin": "sàibō pèngkè",
+        "chinese": "赛博朋克",
+        "russian": "киберпанк",
+        "english": "cyberpunk"
+    },
+    {
+        "pinyin": "rénwù",
+        "chinese": "人物",
+        "russian": "персонаж",
+        "english": "character"
+    },
+    {
+        "pinyin": "jìn yīdiǎnr",
+        "chinese": "近一点儿",
+        "russian": "поближе",
+        "english": "closer"
+    },
+    {
+        "pinyin": "jiālǐ fù nǐ yà",
+        "chinese": "加利福尼亚",
+        "russian": "Калифорния",
+        "english": "California"
+    },
+    {
+        "pinyin": "jīnglì",
+        "chinese": "精力",
+        "russian": "энергия",
+        "english": "energy"
+    },
+    {
+        "pinyin": "zhōngxué",
+        "chinese": "中学",
+        "russian": "средняя школа",
+        "english": "middle school"
+    },
+    {
+        "pinyin": "fēnshù",
+        "chinese": "分数",
+        "russian": "оценка",
+        "english": "score"
+    },
+    {
+        "pinyin": "chéngjī",
+        "chinese": "成绩",
+        "russian": "оценки/результат",
+        "english": "grades"
+    },
+    {
+        "pinyin": "cóng 6 dào 10 suì",
+        "chinese": "从6到10岁",
+        "russian": "с 6 до 10 лет",
+        "english": "from 6 to 10 years old"
+    },
+    {
+        "pinyin": "jiāo le xīn de péngyǒu",
+        "chinese": "交了新的朋友",
+        "russian": "завел новых друзей",
+        "english": "made new friends"
+    },
+    {
+        "pinyin": "16 suì qián",
+        "chinese": "16岁前",
+        "russian": "до 16 лет",
+        "english": "before 16 years old"
+    },
+    {
+        "pinyin": "wǒ 16 suì qián zài kànle shū",
+        "chinese": "我16岁前在看了书",
+        "russian": "я читал книги до 16 лет",
+        "english": "I read books before I was 16"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "pinyin": "yī miǎo zhōng",
+        "chinese": "一秒钟",
+        "russian": "одна секунда",
+        "english": "one second"
+    },
+    {
+        "pinyin": "yī fēn zhōng",
+        "chinese": "一分钟",
+        "russian": "одна минута",
+        "english": "one minute"
+    },
+    {
+        "pinyin": "sān gè xiǎoshí",
+        "chinese": "三个小时",
+        "russian": "три часа",
+        "english": "three hours"
+    },
+    {
+        "pinyin": "sān tiān",
+        "chinese": "三天",
+        "russian": "три дня",
+        "english": "three days"
+    },
+    {
+        "pinyin": "sān zhōu",
+        "chinese": "三周",
+        "russian": "три недели",
+        "english": "three weeks"
+    },
+    {
+        "pinyin": "sān gè xīngqī",
+        "chinese": "三个星期",
+        "russian": "три недели",
+        "english": "three weeks"
+    },
+    {
+        "pinyin": "sān gè yuè",
+        "chinese": "三个月",
+        "russian": "три месяца",
+        "english": "three months"
+    },
+    {
+        "pinyin": "sān nián",
+        "chinese": "三年",
+        "russian": "три года",
+        "english": "three years"
+    },
+    {
+        "pinyin": "zuótiān méi qù diànyǐngyuàn",
+        "chinese": "昨天没去电影院",
+        "russian": "вчера не ходил в кино",
+        "english": "didn't go to the cinema yesterday"
+    },
+    {
+        "pinyin": "nǐ yǒu méi yǒu qù yīyuàn?",
+        "chinese": "你有没有去医院?",
+        "russian": "ты ходил в больницу?",
+        "english": "did you go to the hospital?"
+    }
+]

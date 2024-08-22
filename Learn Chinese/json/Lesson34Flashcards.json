@@ -1,0 +1,140 @@
+[
+    {
+        "pinyin": "an pai",
+        "chinese": "安排",
+        "russian": "планировать",
+        "english": "plan"
+    },
+    {
+        "pinyin": "chao jia",
+        "chinese": "吵架",
+        "russian": "ссориться",
+        "english": "argue"
+    },
+    {
+        "pinyin": "wan yidianer",
+        "chinese": "晚一点儿",
+        "russian": "позже",
+        "english": "later"
+    },
+    {
+        "pinyin": "fang zi",
+        "chinese": "房子",
+        "russian": "дом/квартира",
+        "english": "house/apartment"
+    },
+    {
+        "pinyin": "fang jian",
+        "chinese": "房间",
+        "russian": "комната/квартира",
+        "english": "room/apartment"
+    },
+    {
+        "pinyin": "taofang",
+        "chinese": "套房",
+        "russian": "квартира",
+        "english": "apartment"
+    },
+    {
+        "pinyin": "liu ziji",
+        "chinese": "留自己",
+        "russian": "оставаться самому",
+        "english": "stay alone"
+    },
+    {
+        "pinyin": "chi cu",
+        "chinese": "吃醋",
+        "russian": "ревновать (пить уксус)",
+        "english": "jealous (lit. drink vinegar)"
+    },
+    {
+        "pinyin": "yaoqing",
+        "chinese": "邀请",
+        "russian": "приглашать",
+        "english": "invite"
+    },
+    {
+        "pinyin": "jingyan",
+        "chinese": "经验",
+        "russian": "опыт",
+        "english": "experience"
+    },
+    {
+        "pinyin": "jingyan fengfu/bugou",
+        "chinese": "经验丰富/不够",
+        "russian": "богатый/недостаточный опыт",
+        "english": "rich/lacking experience"
+    },
+    {
+        "pinyin": "jieping",
+        "chinese": "截图",
+        "russian": "делать скриншот/скриншот",
+        "english": "take screenshot"
+    },
+    {
+        "pinyin": "dai ma",
+        "chinese": "代码",
+        "russian": "код",
+        "english": "code"
+    },
+    {
+        "pinyin": "yi bu fen de daima",
+        "chinese": "一部分的代码",
+        "russian": "часть кода",
+        "english": "part of the code"
+    },
+    {
+        "pinyin": "fuzhi",
+        "chinese": "复制",
+        "russian": "копировать",
+        "english": "copy"
+    },
+    {
+        "pinyin": "kaobei",
+        "chinese": "拷贝",
+        "russian": "копировать (от слова копи)",
+        "english": "copy (from the word copy)"
+    },
+    {
+        "pinyin": "jisuan",
+        "chinese": "计算",
+        "russian": "считать",
+        "english": "calculate"
+    },
+    {
+        "pinyin": "shuzi",
+        "chinese": "数字",
+        "russian": "цифры",
+        "english": "numbers"
+    },
+    {
+        "pinyin": "ji qiao",
+        "chinese": "技巧",
+        "russian": "навык",
+        "english": "skill"
+    },
+    {
+        "pinyin": "ziyou",
+        "chinese": "自由",
+        "russian": "свобода",
+        "english": "freedom"
+    },
+    {
+        "pinyin": "jizhu",
+        "chinese": "记住",
+        "russian": "запоминать/помнить",
+        "english": "remember"
+    },
+    {
+        "pinyin": "jian",
+        "chinese": "减",
+        "russian": "отнимать",
+        "english": "subtract"
+    },
+    {
+        "pinyin": "shan diao",
+        "chinese": "删掉",
+        "russian": "удалять",
+        "english": "delete"
+    }
+]

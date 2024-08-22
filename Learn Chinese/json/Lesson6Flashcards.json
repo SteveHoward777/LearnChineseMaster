@@ -1,0 +1,290 @@
+[
+    {
+        "pinyin": "Wǒ hé péngyǒu jiànmiàn le",
+        "chinese": "我和朋友见面了",
+        "russian": "Я встретился с другом",
+        "english": "I met with a friend"
+    },
+    {
+        "pinyin": "Xiànzài tā qù wǒ de jiā",
+        "chinese": "现在他去我的家",
+        "russian": "Теперь он идет к моему дому",
+        "english": "Now he is going to my house"
+    },
+    {
+        "pinyin": "Dǎgōng",
+        "chinese": "打工",
+        "russian": "Подработка",
+        "english": "Part-time job"
+    },
+    {
+        "pinyin": "Dǎgōng lí wǒ jiā bù yuǎn",
+        "chinese": "打工离我家不远",
+        "russian": "Подработка не далеко от моего дома",
+        "english": "Part-time job is not far from my home"
+    },
+    {
+        "pinyin": "Shāngdiàn",
+        "chinese": "商店",
+        "russian": "Магазин",
+        "english": "Store"
+    },
+    {
+        "pinyin": "Huǒchē zhàn",
+        "chinese": "火车站",
+        "russian": "Вокзал",
+        "english": "Train station"
+    },
+    {
+        "pinyin": "Chāoshì lí huǒchē zhàn zǒulù 20 fēnzhōng",
+        "chinese": "超市离火车站走路20分钟",
+        "russian": "Супермаркет в 20 минутах ходьбы от вокзала",
+        "english": "The supermarket is a 20-minute walk from the train station"
+    },
+    {
+        "pinyin": "Jiàqī",
+        "chinese": "假期",
+        "russian": "Отпуск",
+        "english": "Vacation"
+    },
+    {
+        "pinyin": "Bù yào gěi wǒ jiàqī",
+        "chinese": "不要给我假期",
+        "russian": "Не нужно мне отпуска",
+        "english": "Don't give me a vacation"
+    },
+    {
+        "pinyin": "Kāishǐ gōngzuò",
+        "chinese": "开始工作",
+        "russian": "Начать работать",
+        "english": "Start working"
+    },
+    {
+        "pinyin": "Tóngyì le",
+        "chinese": "同意了",
+        "russian": "Согласен",
+        "english": "Agreed"
+    },
+    {
+        "pinyin": "Wǎngshàng/xianshàng zhùcè",
+        "chinese": "网上/线上注册",
+        "russian": "Зарегистрироваться онлайн",
+        "english": "Register online"
+    },
+    {
+        "pinyin": "Wénjiàn",
+        "chinese": "文件",
+        "russian": "Документы",
+        "english": "Documents"
+    },
+    {
+        "pinyin": "Bàn qiānzhèng",
+        "chinese": "办签证",
+        "russian": "Оформлять визу",
+        "english": "Get a visa"
+    },
+    {
+        "pinyin": "Bàn hé tóng",
+        "chinese": "办合同",
+        "russian": "Оформлять контракт",
+        "english": "Get a contract"
+    },
+    {
+        "pinyin": "Fàng jià",
+        "chinese": "放假",
+        "russian": "Отдыхать дома",
+        "english": "Take a holiday"
+    },
+    {
+        "pinyin": "Jiérì",
+        "chinese": "节日",
+        "russian": "Праздник",
+        "english": "Holiday"
+    },
+    {
+        "pinyin": "Zhōumò",
+        "chinese": "周末",
+        "russian": "Выходные",
+        "english": "Weekend"
+    },
+    {
+        "pinyin": "Lǎodòng jié",
+        "chinese": "劳动节",
+        "russian": "День труда",
+        "english": "Labor Day"
+    },
+    {
+        "pinyin": "Yáncháng",
+        "chinese": "延长",
+        "russian": "Продлевать",
+        "english": "Extend"
+    },
+    {
+        "pinyin": "Yǒng qítā de fāngshì",
+        "chinese": "用其他的方式",
+        "russian": "Использовать другие методы",
+        "english": "Use other methods"
+    },
+    {
+        "pinyin": "Dìfāng",
+        "chinese": "地方",
+        "russian": "Место",
+        "english": "Place"
+    },
+    {
+        "pinyin": "Dōngxī",
+        "chinese": "东西",
+        "russian": "Вещи",
+        "english": "Things"
+    },
+    {
+        "pinyin": "Bànfǎ",
+        "chinese": "办法",
+        "russian": "Метод",
+        "english": "Method"
+    },
+    {
+        "pinyin": "Gěi wǒ mǎi kāfēi zài xīngbākè",
+        "chinese": "给我买咖啡在星巴克",
+        "russian": "Купи мне кофе в Starbucks",
+        "english": "Buy me coffee at Starbucks"
+    },
+    {
+        "pinyin": "Zhuàn qián",
+        "chinese": "赚钱",
+        "russian": "Зарабатывать деньги",
+        "english": "Make money"
+    },
+    {
+        "pinyin": "Yǒudiǎn er tiáopí",
+        "chinese": "有点儿调皮",
+        "russian": "Немного непоседа",
+        "english": "A little naughty"
+    },
+    {
+        "pinyin": "Tínghuà yīdiǎn er",
+        "chinese": "听话一点儿",
+        "russian": "Будь послушным",
+        "english": "Be a little obedient"
+    },
+    {
+        "pinyin": "Bìngqiě",
+        "chinese": "并且",
+        "russian": "К тому же",
+        "english": "Moreover"
+    },
+    {
+        "pinyin": "Jiǎnxiāo",
+        "chinese": "减小",
+        "russian": "Уменьшать",
+        "english": "Reduce"
+    },
+    {
+        "pinyin": "Shíjiān",
+        "chinese": "时间",
+        "russian": "Время",
+        "english": "Time"
+    },
+    {
+        "pinyin": "Qiántiān",
+        "chinese": "前天",
+        "russian": "Позавчера",
+        "english": "The day before yesterday"
+    },
+    {
+        "pinyin": "Hòutiān",
+        "chinese": "后天",
+        "russian": "Послезавтра",
+        "english": "The day after tomorrow"
+    },
+    {
+        "pinyin": "Liáotiān yī xiē",
+        "chinese": "聊天一些",
+        "russian": "Немножко поболтать",
+        "english": "Chat a little"
+    },
+    {
+        "pinyin": "Ràng",
+        "chinese": "让",
+        "russian": "Заставлять",
+        "english": "Let/Make"
+    },
+    {
+        "pinyin": "Yǔnxǔ",
+        "chinese": "允许",
+        "russian": "Разрешать/позволять",
+        "english": "Allow/Permit"
+    },
+    {
+        "pinyin": "Wèi hūn",
+        "chinese": "未婚",
+        "russian": "Не женат/не замужем",
+        "english": "Unmarried"
+    },
+    {
+        "pinyin": "Shēnghuó fāngshì",
+        "chinese": "生活方式",
+        "russian": "Образ жизни",
+        "english": "Lifestyle"
+    },
+    {
+        "pinyin": "Bù néng zài yīqǐ",
+        "chinese": "不能在一起",
+        "russian": "Не могут быть вместе",
+        "english": "Cannot be together"
+    },
+    {
+        "pinyin": "Zhèngfǔ",
+        "chinese": "政府",
+        "russian": "Правительство",
+        "english": "Government"
+    },
+    {
+        "pinyin": "Gēn zhèngfǔ yǒuguān",
+        "chinese": "跟政府有关",
+        "russian": "Имеет отношение к правительству",
+        "english": "Related to the government"
+    },
+    {
+        "pinyin": "Líhūn",
+        "chinese": "离婚",
+        "russian": "Развод",
+        "english": "Divorce"
+    },
+    {
+        "pinyin": "Diūshī",
+        "chinese": "丢失",
+        "russian": "Потерять/лишиться",
+        "english": "Lose"
+    },
+    {
+        "pinyin": "Xuǎnzé",
+        "chinese": "选择",
+        "russian": "Выбирать",
+        "english": "Choose"
+    },
+    {
+        "pinyin": "Méi yǒu tā gāo",
+        "chinese": "没有他高",
+        "russian": "Не такой высокий как он",
+        "english": "Not as tall as him"
+    },
+    {
+        "pinyin": "Wǒ bǐ tā cōngmíng",
+        "chinese": "我比他聪明",
+        "russian": "Я умнее него",
+        "english": "I am smarter than him"
+    },
+    {
+        "pinyin": "Alābó péngyǒu",
+        "chinese": "阿拉伯朋友",
+        "russian": "Арабский друг",
+        "english": "Arab friend"
+    },
+    {
+        "pinyin": "Yǒudiǎn er nánguò",
+        "chinese": "有点儿难过",
+        "russian": "Немного грустно",
+        "english": "A little sad"
+    }
+]

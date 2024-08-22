@@ -1,0 +1,332 @@
+[
+    {
+        "pinyin": "Shēnyīn",
+        "chinese": "声音",
+        "russian": "Звук",
+        "english": "Sound"
+    },
+    {
+        "pinyin": "Chāo",
+        "chinese": "吵",
+        "russian": "Шумный",
+        "english": "Noisy"
+    },
+    {
+        "pinyin": "Shàngkè",
+        "chinese": "上课",
+        "russian": "Занятие",
+        "english": "Class"
+    },
+    {
+        "pinyin": "Yěcān",
+        "chinese": "野餐",
+        "russian": "Пикник",
+        "english": "Picnic"
+    },
+    {
+        "pinyin": "Pàiduì",
+        "chinese": "派对",
+        "russian": "Вечеринка",
+        "english": "Party"
+    },
+    {
+        "pinyin": "Cānjiā",
+        "chinese": "参加",
+        "russian": "Присутствовать",
+        "english": "Attend"
+    },
+    {
+        "pinyin": "Gēn",
+        "chinese": "跟",
+        "russian": "С (кем-то)",
+        "english": "With (someone)"
+    },
+    {
+        "pinyin": "Gěi",
+        "chinese": "给",
+        "russian": "Для (кого-то)",
+        "english": "For (someone)"
+    },
+    {
+        "pinyin": "Zhídào wǎnshàng 5 diǎn",
+        "chinese": "直到晚上5点",
+        "russian": "До 5 вечера",
+        "english": "Until 5 PM"
+    },
+    {
+        "pinyin": "Kāishǐ",
+        "chinese": "开始",
+        "russian": "Начинать",
+        "english": "Start"
+    },
+    {
+        "pinyin": "Jiéshù",
+        "chinese": "结束",
+        "russian": "Заканчивать",
+        "english": "Finish"
+    },
+    {
+        "pinyin": "Qǔxiāo",
+        "chinese": "取消",
+        "russian": "Отменять",
+        "english": "Cancel"
+    },
+    {
+        "pinyin": "Huódòng",
+        "chinese": "活动",
+        "russian": "Мероприятие",
+        "english": "Event"
+    },
+    {
+        "pinyin": "Gǎnrǎn",
+        "chinese": "感染",
+        "russian": "Заразиться",
+        "english": "Infect"
+    },
+    {
+        "pinyin": "Hěn jiànkāng",
+        "chinese": "很健康",
+        "russian": "Очень здоровый",
+        "english": "Very healthy"
+    },
+    {
+        "pinyin": "Dòng xué",
+        "chinese": "洞穴",
+        "russian": "Пещера (общий термин)",
+        "english": "Cave (general term)"
+    },
+    {
+        "pinyin": "Shān dòng",
+        "chinese": "山洞",
+        "russian": "Горная пещера",
+        "english": "Mountain cave"
+    },
+    {
+        "pinyin": "Fēngjǐng",
+        "chinese": "风景",
+        "russian": "Пейзаж",
+        "english": "Scenery"
+    },
+    {
+        "pinyin": "Měilì",
+        "chinese": "美丽",
+        "russian": "Красота / красивый",
+        "english": "Beautiful"
+    },
+    {
+        "pinyin": "Wǒ bù gēn wǒ de péngyǒu wánr hěn duō",
+        "chinese": "我不跟我的朋友玩儿很多",
+        "russian": "Я не играю с друзьями много",
+        "english": "I don't play with my friends much"
+    },
+    {
+        "pinyin": "Yǒuyì",
+        "chinese": "友谊",
+        "russian": "Дружба",
+        "english": "Friendship"
+    },
+    {
+        "pinyin": "Guānxì",
+        "chinese": "关系",
+        "russian": "Отношения",
+        "english": "Relationship"
+    },
+    {
+        "pinyin": "Duì nǐ lái shuō",
+        "chinese": "对你来说",
+        "russian": "Говоря о тебе",
+        "english": "For you"
+    },
+    {
+        "pinyin": "Duì nǐ lái shuō, yǒuyì hěn zhòngyào ma?",
+        "chinese": "对你来说，友谊很重要吗?",
+        "russian": "Для тебя дружба важна?",
+        "english": "Is friendship important to you?"
+    },
+    {
+        "pinyin": "Hěnduō",
+        "chinese": "很多",
+        "russian": "Много",
+        "english": "A lot"
+    },
+    {
+        "pinyin": "Gèng duō",
+        "chinese": "更多",
+        "russian": "Больше",
+        "english": "More"
+    },
+    {
+        "pinyin": "Zuì duō",
+        "chinese": "最多",
+        "russian": "Максимум",
+        "english": "Most"
+    },
+    {
+        "pinyin": "Wán měi",
+        "chinese": "完美",
+        "russian": "Идеальный",
+        "english": "Perfect"
+    },
+    {
+        "pinyin": "Wánr gēn bù wánměi de rén",
+        "chinese": "玩儿跟不完美的人",
+        "russian": "Играть с несовершенными людьми",
+        "english": "Play with imperfect people"
+    },
+    {
+        "pinyin": "Jiànmiàn",
+        "chinese": "见面",
+        "russian": "Встретиться",
+        "english": "Meet"
+    },
+    {
+        "pinyin": "Jiàn le nǐ de miàn",
+        "chinese": "见了你的面",
+        "russian": "Встретился с тобой",
+        "english": "Met with you"
+    },
+    {
+        "pinyin": "Jiàn le 3 cì miàn",
+        "chinese": "见了三次面",
+        "russian": "Встретился три раза",
+        "english": "Met three times"
+    },
+    {
+        "pinyin": "Que dìng",
+        "chinese": "确定",
+        "russian": "Точно / Уверен",
+        "english": "Sure"
+    },
+    {
+        "pinyin": "Cúnzài",
+        "chinese": "存在",
+        "russian": "Существовать",
+        "english": "Exist"
+    },
+    {
+        "pinyin": "Jiēshòu",
+        "chinese": "接受",
+        "russian": "Принять",
+        "english": "Accept"
+    },
+    {
+        "pinyin": "Cháng shì",
+        "chinese": "尝试",
+        "russian": "Пробовать / пытаться",
+        "english": "Try"
+    },
+    {
+        "pinyin": "Huīfù",
+        "chinese": "恢复",
+        "russian": "Выздороветь",
+        "english": "Recover"
+    },
+    {
+        "pinyin": "Nénglì",
+        "chinese": "能力",
+        "russian": "Способность",
+        "english": "Ability"
+    },
+    {
+        "pinyin": "Jìnéng",
+        "chinese": "技能",
+        "russian": "Навык",
+        "english": "Skill"
+    },
+    {
+        "pinyin": "Huà tí",
+        "chinese": "话题",
+        "russian": "Тема (разговора)",
+        "english": "Topic (conversation)"
+    },
+    {
+        "pinyin": "Tí mù",
+        "chinese": "题目",
+        "russian": "Тема (задания)",
+        "english": "Topic (task)"
+    },
+    {
+        "pinyin": "Jiànféi",
+        "chinese": "减肥",
+        "russian": "Похудение",
+        "english": "Lose weight"
+    },
+    {
+        "pinyin": "Jiǎn le 4 gōngjīn",
+        "chinese": "减了4公斤",
+        "russian": "Похудел на 4 кг",
+        "english": "Lost 4 kg"
+    },
+    {
+        "pinyin": "Tóngshí",
+        "chinese": "同时",
+        "russian": "В то же время",
+        "english": "At the same time"
+    },
+    {
+        "pinyin": "Fāngshì",
+        "chinese": "方式",
+        "russian": "Метод / способ",
+        "english": "Method"
+    },
+    {
+        "pinyin": "Dú shū le",
+        "chinese": "读书了",
+        "russian": "Прочитал книгу",
+        "english": "Read a book"
+    },
+    {
+        "pinyin": "Kàn shū le",
+        "chinese": "看书了",
+        "russian": "Читал книгу",
+        "english": "Reading a book"
+    },
+    {
+        "pinyin": "Kàn wán shū le",
+        "chinese": "看完书了",
+        "russian": "Прочитал книгу до конца",
+        "english": "Finished reading a book"
+    },
+    {
+        "pinyin": "Guānyú",
+        "chinese": "关于",
+        "russian": "О (чем-то)",
+        "english": "About"
+    },
+    {
+        "pinyin": "Shìjiè",
+        "chinese": "世界",
+        "russian": "Мир / свет",
+        "english": "World"
+    },
+    {
+        "pinyin": "Liúxíng",
+        "chinese": "流行",
+        "russian": "Популярный",
+        "english": "Popular"
+    },
+    {
+        "pinyin": "Rén gōng zhì néng",
+        "chinese": "人工智能",
+        "russian": "Искусственный интеллект",
+        "english": "Artificial intelligence"
+    },
+    {
+        "pinyin": "Wǎng luò",
+        "chinese": "网络",
+        "russian": "Сеть",
+        "english": "Network"
+    },
+    {
+        "pinyin": "Shíjiān",
+        "chinese": "时间",
+        "russian": "Время",
+        "english": "Time"
+    },
+    {
+        "pinyin": "Bù làngfèi shíjiān",
+        "chinese": "不浪费时间",
+        "russian": "Не тратить время впустую",
+        "english": "Don't waste time"
+    }
+]
