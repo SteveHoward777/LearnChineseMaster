@@ -7,96 +7,96 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B92197112C1969E500EBA4D5 /* Lesson11Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92197102C1969E500EBA4D5 /* Lesson11Flashcards.swift */; };
-		B92197132C196D9D00EBA4D5 /* Lesson12Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92197122C196D9D00EBA4D5 /* Lesson12Flashcards.swift */; };
-		B92197152C196DBD00EBA4D5 /* Lesson13Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92197142C196DBD00EBA4D5 /* Lesson13Flashcards.swift */; };
-		B92197172C196DDF00EBA4D5 /* Lesson14Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92197162C196DDF00EBA4D5 /* Lesson14Flashcards.swift */; };
-		B92197192C196DFE00EBA4D5 /* Lesson15Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92197182C196DFE00EBA4D5 /* Lesson15Flashcards.swift */; };
-		B921971B2C196E2100EBA4D5 /* Lesson16Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B921971A2C196E2100EBA4D5 /* Lesson16Flashcards.swift */; };
-		B921971D2C196E4300EBA4D5 /* Lesson17Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B921971C2C196E4300EBA4D5 /* Lesson17Flashcards.swift */; };
-		B921971F2C196E7A00EBA4D5 /* Lesson18Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B921971E2C196E7A00EBA4D5 /* Lesson18Flashcards.swift */; };
-		B92197212C196E9700EBA4D5 /* Lesson19Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92197202C196E9700EBA4D5 /* Lesson19Flashcards.swift */; };
-		B92197232C196EAB00EBA4D5 /* Lesson20Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92197222C196EAB00EBA4D5 /* Lesson20Flashcards.swift */; };
 		B98E3AE72C0ED22300E1CD62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B98E3AE62C0ED22300E1CD62 /* Assets.xcassets */; };
 		B98E3AEA2C0ED22300E1CD62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B98E3AE92C0ED22300E1CD62 /* Preview Assets.xcassets */; };
-		B994725D2C2D8210002743B5 /* Lesson33Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B994725C2C2D8210002743B5 /* Lesson33Flashcards.swift */; };
-		B994725F2C2D823E002743B5 /* Lesson34Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B994725E2C2D823E002743B5 /* Lesson34Flashcards.swift */; };
-		B99472612C2D8266002743B5 /* Lesson35Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99472602C2D8266002743B5 /* Lesson35Flashcards.swift */; };
 		B998D9382C510EEF00F903F6 /* RepetitionTrainingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B998D9352C510EEF00F903F6 /* RepetitionTrainingView.swift */; };
 		B998D9392C510EEF00F903F6 /* FlashcardManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B998D9362C510EEF00F903F6 /* FlashcardManager.swift */; };
 		B998D93A2C510EEF00F903F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B998D9372C510EEF00F903F6 /* ContentView.swift */; };
+		B9A5C2432C771E910001AFF0 /* Lesson1Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C21F2C771E900001AFF0 /* Lesson1Flashcards.json */; };
+		B9A5C2442C771E910001AFF0 /* Lesson2Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2202C771E900001AFF0 /* Lesson2Flashcards.json */; };
+		B9A5C2452C771E910001AFF0 /* Lesson3Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2212C771E900001AFF0 /* Lesson3Flashcards.json */; };
+		B9A5C2462C771E910001AFF0 /* Lesson4Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2222C771E900001AFF0 /* Lesson4Flashcards.json */; };
+		B9A5C2472C771E910001AFF0 /* Lesson5Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2232C771E900001AFF0 /* Lesson5Flashcards.json */; };
+		B9A5C2482C771E910001AFF0 /* Lesson6Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2242C771E900001AFF0 /* Lesson6Flashcards.json */; };
+		B9A5C2492C771E910001AFF0 /* Lesson7Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2252C771E900001AFF0 /* Lesson7Flashcards.json */; };
+		B9A5C24A2C771E910001AFF0 /* Lesson8Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2262C771E900001AFF0 /* Lesson8Flashcards.json */; };
+		B9A5C24B2C771E910001AFF0 /* Lesson9Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2272C771E900001AFF0 /* Lesson9Flashcards.json */; };
+		B9A5C24C2C771E910001AFF0 /* Lesson10Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2282C771E900001AFF0 /* Lesson10Flashcards.json */; };
+		B9A5C24D2C771E910001AFF0 /* Lesson11Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2292C771E900001AFF0 /* Lesson11Flashcards.json */; };
+		B9A5C24E2C771E910001AFF0 /* Lesson12Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C22A2C771E900001AFF0 /* Lesson12Flashcards.json */; };
+		B9A5C24F2C771E910001AFF0 /* Lesson13Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C22B2C771E900001AFF0 /* Lesson13Flashcards.json */; };
+		B9A5C2502C771E910001AFF0 /* Lesson14Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C22C2C771E900001AFF0 /* Lesson14Flashcards.json */; };
+		B9A5C2512C771E910001AFF0 /* Lesson15Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C22D2C771E900001AFF0 /* Lesson15Flashcards.json */; };
+		B9A5C2522C771E910001AFF0 /* Lesson16Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C22E2C771E900001AFF0 /* Lesson16Flashcards.json */; };
+		B9A5C2532C771E910001AFF0 /* Lesson17Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C22F2C771E900001AFF0 /* Lesson17Flashcards.json */; };
+		B9A5C2542C771E910001AFF0 /* Lesson18Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2302C771E900001AFF0 /* Lesson18Flashcards.json */; };
+		B9A5C2552C771E910001AFF0 /* Lesson19Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2312C771E900001AFF0 /* Lesson19Flashcards.json */; };
+		B9A5C2562C771E910001AFF0 /* Lesson20Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2322C771E900001AFF0 /* Lesson20Flashcards.json */; };
+		B9A5C2572C771E910001AFF0 /* Lesson21Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2332C771E900001AFF0 /* Lesson21Flashcards.json */; };
+		B9A5C2582C771E910001AFF0 /* Lesson22Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2342C771E900001AFF0 /* Lesson22Flashcards.json */; };
+		B9A5C2592C771E910001AFF0 /* Lesson23Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2352C771E900001AFF0 /* Lesson23Flashcards.json */; };
+		B9A5C25A2C771E910001AFF0 /* Lesson24Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2362C771E900001AFF0 /* Lesson24Flashcards.json */; };
+		B9A5C25B2C771E910001AFF0 /* Lesson25Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2372C771E900001AFF0 /* Lesson25Flashcards.json */; };
+		B9A5C25C2C771E910001AFF0 /* Lesson26Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2382C771E900001AFF0 /* Lesson26Flashcards.json */; };
+		B9A5C25D2C771E910001AFF0 /* Lesson27Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2392C771E900001AFF0 /* Lesson27Flashcards.json */; };
+		B9A5C25E2C771E910001AFF0 /* Lesson28Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C23A2C771E900001AFF0 /* Lesson28Flashcards.json */; };
+		B9A5C25F2C771E910001AFF0 /* Lesson29Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C23B2C771E900001AFF0 /* Lesson29Flashcards.json */; };
+		B9A5C2602C771E910001AFF0 /* Lesson30Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C23C2C771E900001AFF0 /* Lesson30Flashcards.json */; };
+		B9A5C2612C771E910001AFF0 /* Lesson31Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C23D2C771E900001AFF0 /* Lesson31Flashcards.json */; };
+		B9A5C2622C771E910001AFF0 /* Lesson32Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C23E2C771E900001AFF0 /* Lesson32Flashcards.json */; };
+		B9A5C2632C771E910001AFF0 /* Lesson33Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C23F2C771E900001AFF0 /* Lesson33Flashcards.json */; };
+		B9A5C2642C771E910001AFF0 /* Lesson34Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2402C771E900001AFF0 /* Lesson34Flashcards.json */; };
+		B9A5C2652C771E910001AFF0 /* Lesson35Flashcards.json in Resources */ = {isa = PBXBuildFile; fileRef = B9A5C2412C771E900001AFF0 /* Lesson35Flashcards.json */; };
 		B9ADF37B2C4B789C00796B6D /* Learn Chinese Master.storekit in Resources */ = {isa = PBXBuildFile; fileRef = B9ADF37A2C4B789C00796B6D /* Learn Chinese Master.storekit */; };
 		B9B3D61C2C0F208C007D8731 /* LearnChineseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B3D61A2C0F1FF9007D8731 /* LearnChineseApp.swift */; };
-		B9C4FDB82C23F34D0078BCE3 /* Lesson21Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDB72C23F34D0078BCE3 /* Lesson21Flashcards.swift */; };
-		B9C4FDBA2C23F3730078BCE3 /* Lesson22Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDB92C23F3730078BCE3 /* Lesson22Flashcards.swift */; };
-		B9C4FDBC2C23F3980078BCE3 /* Lesson23Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDBB2C23F3980078BCE3 /* Lesson23Flashcards.swift */; };
-		B9C4FDBE2C23F3BF0078BCE3 /* Lesson24Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDBD2C23F3BF0078BCE3 /* Lesson24Flashcards.swift */; };
-		B9C4FDC02C23F3E50078BCE3 /* Lesson25Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDBF2C23F3E50078BCE3 /* Lesson25Flashcards.swift */; };
-		B9C4FDC22C23F4020078BCE3 /* Lesson26Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDC12C23F4020078BCE3 /* Lesson26Flashcards.swift */; };
-		B9C4FDC42C23F41E0078BCE3 /* Lesson27Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDC32C23F41E0078BCE3 /* Lesson27Flashcards.swift */; };
-		B9C4FDC62C23F4880078BCE3 /* Lesson28Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDC52C23F4880078BCE3 /* Lesson28Flashcards.swift */; };
-		B9C4FDC82C23F4AF0078BCE3 /* Lesson29Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDC72C23F4AF0078BCE3 /* Lesson29Flashcards.swift */; };
-		B9C4FDCA2C23F4CD0078BCE3 /* Lesson30Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDC92C23F4CD0078BCE3 /* Lesson30Flashcards.swift */; };
-		B9C4FDCC2C23F4EF0078BCE3 /* Lesson31Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDCB2C23F4EF0078BCE3 /* Lesson31Flashcards.swift */; };
-		B9C4FDCE2C23F5130078BCE3 /* Lesson32Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C4FDCD2C23F5130078BCE3 /* Lesson32Flashcards.swift */; };
-		B9C850792C12CDC200F7AE48 /* Lesson3Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C850782C12CDC200F7AE48 /* Lesson3Flashcards.swift */; };
-		B9C8507B2C12CF5000F7AE48 /* Lesson4Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C8507A2C12CF5000F7AE48 /* Lesson4Flashcards.swift */; };
-		B9C8507D2C12CF8600F7AE48 /* Lesson5Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C8507C2C12CF8600F7AE48 /* Lesson5Flashcards.swift */; };
-		B9C8507F2C12CFAD00F7AE48 /* Lesson6Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C8507E2C12CFAD00F7AE48 /* Lesson6Flashcards.swift */; };
-		B9C850812C12CFC900F7AE48 /* Lesson7Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C850802C12CFC900F7AE48 /* Lesson7Flashcards.swift */; };
-		B9C850832C12CFE100F7AE48 /* Lesson8Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C850822C12CFE100F7AE48 /* Lesson8Flashcards.swift */; };
-		B9C850852C12D00000F7AE48 /* Lesson9Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C850842C12D00000F7AE48 /* Lesson9Flashcards.swift */; };
-		B9C850872C12D01900F7AE48 /* Lesson10Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C850862C12D01900F7AE48 /* Lesson10Flashcards.swift */; };
 		B9DCA5EB2C1083F8004B88E3 /* Space.MOV in Resources */ = {isa = PBXBuildFile; fileRef = B9DCA5EA2C1083F8004B88E3 /* Space.MOV */; };
-		B9E9CFE92C102AB100423113 /* Lesson1Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E9CFE82C102AB100423113 /* Lesson1Flashcards.swift */; };
-		B9E9CFEB2C1030E700423113 /* Lesson2Flashcards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E9CFEA2C1030E700423113 /* Lesson2Flashcards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B92197102C1969E500EBA4D5 /* Lesson11Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson11Flashcards.swift; sourceTree = "<group>"; };
-		B92197122C196D9D00EBA4D5 /* Lesson12Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12Flashcards.swift; sourceTree = "<group>"; };
-		B92197142C196DBD00EBA4D5 /* Lesson13Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13Flashcards.swift; sourceTree = "<group>"; };
-		B92197162C196DDF00EBA4D5 /* Lesson14Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson14Flashcards.swift; sourceTree = "<group>"; };
-		B92197182C196DFE00EBA4D5 /* Lesson15Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson15Flashcards.swift; sourceTree = "<group>"; };
-		B921971A2C196E2100EBA4D5 /* Lesson16Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson16Flashcards.swift; sourceTree = "<group>"; };
-		B921971C2C196E4300EBA4D5 /* Lesson17Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson17Flashcards.swift; sourceTree = "<group>"; };
-		B921971E2C196E7A00EBA4D5 /* Lesson18Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson18Flashcards.swift; sourceTree = "<group>"; };
-		B92197202C196E9700EBA4D5 /* Lesson19Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson19Flashcards.swift; sourceTree = "<group>"; };
-		B92197222C196EAB00EBA4D5 /* Lesson20Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson20Flashcards.swift; sourceTree = "<group>"; };
 		B98E3ADF2C0ED22200E1CD62 /* Learn Chinese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Learn Chinese.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B98E3AE62C0ED22300E1CD62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B98E3AE92C0ED22300E1CD62 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		B994725C2C2D8210002743B5 /* Lesson33Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson33Flashcards.swift; sourceTree = "<group>"; };
-		B994725E2C2D823E002743B5 /* Lesson34Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson34Flashcards.swift; sourceTree = "<group>"; };
-		B99472602C2D8266002743B5 /* Lesson35Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson35Flashcards.swift; sourceTree = "<group>"; };
 		B998D9352C510EEF00F903F6 /* RepetitionTrainingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepetitionTrainingView.swift; sourceTree = "<group>"; };
 		B998D9362C510EEF00F903F6 /* FlashcardManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlashcardManager.swift; sourceTree = "<group>"; };
 		B998D9372C510EEF00F903F6 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B9A5C21F2C771E900001AFF0 /* Lesson1Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson1Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2202C771E900001AFF0 /* Lesson2Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson2Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2212C771E900001AFF0 /* Lesson3Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson3Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2222C771E900001AFF0 /* Lesson4Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson4Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2232C771E900001AFF0 /* Lesson5Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson5Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2242C771E900001AFF0 /* Lesson6Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson6Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2252C771E900001AFF0 /* Lesson7Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson7Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2262C771E900001AFF0 /* Lesson8Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson8Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2272C771E900001AFF0 /* Lesson9Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson9Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2282C771E900001AFF0 /* Lesson10Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson10Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2292C771E900001AFF0 /* Lesson11Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson11Flashcards.json; sourceTree = "<group>"; };
+		B9A5C22A2C771E900001AFF0 /* Lesson12Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson12Flashcards.json; sourceTree = "<group>"; };
+		B9A5C22B2C771E900001AFF0 /* Lesson13Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson13Flashcards.json; sourceTree = "<group>"; };
+		B9A5C22C2C771E900001AFF0 /* Lesson14Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson14Flashcards.json; sourceTree = "<group>"; };
+		B9A5C22D2C771E900001AFF0 /* Lesson15Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson15Flashcards.json; sourceTree = "<group>"; };
+		B9A5C22E2C771E900001AFF0 /* Lesson16Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson16Flashcards.json; sourceTree = "<group>"; };
+		B9A5C22F2C771E900001AFF0 /* Lesson17Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson17Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2302C771E900001AFF0 /* Lesson18Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson18Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2312C771E900001AFF0 /* Lesson19Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson19Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2322C771E900001AFF0 /* Lesson20Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson20Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2332C771E900001AFF0 /* Lesson21Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson21Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2342C771E900001AFF0 /* Lesson22Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson22Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2352C771E900001AFF0 /* Lesson23Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson23Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2362C771E900001AFF0 /* Lesson24Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson24Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2372C771E900001AFF0 /* Lesson25Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson25Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2382C771E900001AFF0 /* Lesson26Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson26Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2392C771E900001AFF0 /* Lesson27Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson27Flashcards.json; sourceTree = "<group>"; };
+		B9A5C23A2C771E900001AFF0 /* Lesson28Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson28Flashcards.json; sourceTree = "<group>"; };
+		B9A5C23B2C771E900001AFF0 /* Lesson29Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson29Flashcards.json; sourceTree = "<group>"; };
+		B9A5C23C2C771E900001AFF0 /* Lesson30Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson30Flashcards.json; sourceTree = "<group>"; };
+		B9A5C23D2C771E900001AFF0 /* Lesson31Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson31Flashcards.json; sourceTree = "<group>"; };
+		B9A5C23E2C771E900001AFF0 /* Lesson32Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson32Flashcards.json; sourceTree = "<group>"; };
+		B9A5C23F2C771E900001AFF0 /* Lesson33Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson33Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2402C771E900001AFF0 /* Lesson34Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson34Flashcards.json; sourceTree = "<group>"; };
+		B9A5C2412C771E900001AFF0 /* Lesson35Flashcards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lesson35Flashcards.json; sourceTree = "<group>"; };
 		B9ADF37A2C4B789C00796B6D /* Learn Chinese Master.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Learn Chinese Master.storekit"; sourceTree = "<group>"; };
 		B9B3D61A2C0F1FF9007D8731 /* LearnChineseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnChineseApp.swift; sourceTree = "<group>"; };
-		B9C4FDB72C23F34D0078BCE3 /* Lesson21Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson21Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDB92C23F3730078BCE3 /* Lesson22Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson22Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDBB2C23F3980078BCE3 /* Lesson23Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson23Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDBD2C23F3BF0078BCE3 /* Lesson24Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson24Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDBF2C23F3E50078BCE3 /* Lesson25Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson25Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDC12C23F4020078BCE3 /* Lesson26Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson26Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDC32C23F41E0078BCE3 /* Lesson27Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson27Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDC52C23F4880078BCE3 /* Lesson28Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson28Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDC72C23F4AF0078BCE3 /* Lesson29Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson29Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDC92C23F4CD0078BCE3 /* Lesson30Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson30Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDCB2C23F4EF0078BCE3 /* Lesson31Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson31Flashcards.swift; sourceTree = "<group>"; };
-		B9C4FDCD2C23F5130078BCE3 /* Lesson32Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson32Flashcards.swift; sourceTree = "<group>"; };
-		B9C850782C12CDC200F7AE48 /* Lesson3Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson3Flashcards.swift; sourceTree = "<group>"; };
-		B9C8507A2C12CF5000F7AE48 /* Lesson4Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson4Flashcards.swift; sourceTree = "<group>"; };
-		B9C8507C2C12CF8600F7AE48 /* Lesson5Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson5Flashcards.swift; sourceTree = "<group>"; };
-		B9C8507E2C12CFAD00F7AE48 /* Lesson6Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson6Flashcards.swift; sourceTree = "<group>"; };
-		B9C850802C12CFC900F7AE48 /* Lesson7Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson7Flashcards.swift; sourceTree = "<group>"; };
-		B9C850822C12CFE100F7AE48 /* Lesson8Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson8Flashcards.swift; sourceTree = "<group>"; };
-		B9C850842C12D00000F7AE48 /* Lesson9Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson9Flashcards.swift; sourceTree = "<group>"; };
-		B9C850862C12D01900F7AE48 /* Lesson10Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson10Flashcards.swift; sourceTree = "<group>"; };
 		B9DCA5EA2C1083F8004B88E3 /* Space.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Space.MOV; sourceTree = "<group>"; };
-		B9E9CFE82C102AB100423113 /* Lesson1Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson1Flashcards.swift; sourceTree = "<group>"; };
-		B9E9CFEA2C1030E700423113 /* Lesson2Flashcards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson2Flashcards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,44 +131,10 @@
 		B98E3AE12C0ED22200E1CD62 /* Learn Chinese */ = {
 			isa = PBXGroup;
 			children = (
+				B9A5C2422C771E900001AFF0 /* json */,
 				B998D9372C510EEF00F903F6 /* ContentView.swift */,
 				B998D9362C510EEF00F903F6 /* FlashcardManager.swift */,
 				B998D9352C510EEF00F903F6 /* RepetitionTrainingView.swift */,
-				B9E9CFE82C102AB100423113 /* Lesson1Flashcards.swift */,
-				B9E9CFEA2C1030E700423113 /* Lesson2Flashcards.swift */,
-				B9C850782C12CDC200F7AE48 /* Lesson3Flashcards.swift */,
-				B9C8507A2C12CF5000F7AE48 /* Lesson4Flashcards.swift */,
-				B9C8507C2C12CF8600F7AE48 /* Lesson5Flashcards.swift */,
-				B9C8507E2C12CFAD00F7AE48 /* Lesson6Flashcards.swift */,
-				B9C850802C12CFC900F7AE48 /* Lesson7Flashcards.swift */,
-				B9C850822C12CFE100F7AE48 /* Lesson8Flashcards.swift */,
-				B9C850842C12D00000F7AE48 /* Lesson9Flashcards.swift */,
-				B9C850862C12D01900F7AE48 /* Lesson10Flashcards.swift */,
-				B92197102C1969E500EBA4D5 /* Lesson11Flashcards.swift */,
-				B92197122C196D9D00EBA4D5 /* Lesson12Flashcards.swift */,
-				B92197142C196DBD00EBA4D5 /* Lesson13Flashcards.swift */,
-				B92197162C196DDF00EBA4D5 /* Lesson14Flashcards.swift */,
-				B92197182C196DFE00EBA4D5 /* Lesson15Flashcards.swift */,
-				B921971A2C196E2100EBA4D5 /* Lesson16Flashcards.swift */,
-				B921971C2C196E4300EBA4D5 /* Lesson17Flashcards.swift */,
-				B921971E2C196E7A00EBA4D5 /* Lesson18Flashcards.swift */,
-				B92197202C196E9700EBA4D5 /* Lesson19Flashcards.swift */,
-				B92197222C196EAB00EBA4D5 /* Lesson20Flashcards.swift */,
-				B9C4FDB72C23F34D0078BCE3 /* Lesson21Flashcards.swift */,
-				B9C4FDB92C23F3730078BCE3 /* Lesson22Flashcards.swift */,
-				B9C4FDBB2C23F3980078BCE3 /* Lesson23Flashcards.swift */,
-				B9C4FDBD2C23F3BF0078BCE3 /* Lesson24Flashcards.swift */,
-				B9C4FDBF2C23F3E50078BCE3 /* Lesson25Flashcards.swift */,
-				B9C4FDC12C23F4020078BCE3 /* Lesson26Flashcards.swift */,
-				B9C4FDC32C23F41E0078BCE3 /* Lesson27Flashcards.swift */,
-				B9C4FDC52C23F4880078BCE3 /* Lesson28Flashcards.swift */,
-				B9C4FDC72C23F4AF0078BCE3 /* Lesson29Flashcards.swift */,
-				B9C4FDC92C23F4CD0078BCE3 /* Lesson30Flashcards.swift */,
-				B9C4FDCB2C23F4EF0078BCE3 /* Lesson31Flashcards.swift */,
-				B9C4FDCD2C23F5130078BCE3 /* Lesson32Flashcards.swift */,
-				B994725C2C2D8210002743B5 /* Lesson33Flashcards.swift */,
-				B994725E2C2D823E002743B5 /* Lesson34Flashcards.swift */,
-				B99472602C2D8266002743B5 /* Lesson35Flashcards.swift */,
 				B9B3D61A2C0F1FF9007D8731 /* LearnChineseApp.swift */,
 				B98E3AE62C0ED22300E1CD62 /* Assets.xcassets */,
 				B98E3AE82C0ED22300E1CD62 /* Preview Content */,
@@ -182,6 +148,48 @@
 				B98E3AE92C0ED22300E1CD62 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B9A5C2422C771E900001AFF0 /* json */ = {
+			isa = PBXGroup;
+			children = (
+				B9A5C21F2C771E900001AFF0 /* Lesson1Flashcards.json */,
+				B9A5C2202C771E900001AFF0 /* Lesson2Flashcards.json */,
+				B9A5C2212C771E900001AFF0 /* Lesson3Flashcards.json */,
+				B9A5C2222C771E900001AFF0 /* Lesson4Flashcards.json */,
+				B9A5C2232C771E900001AFF0 /* Lesson5Flashcards.json */,
+				B9A5C2242C771E900001AFF0 /* Lesson6Flashcards.json */,
+				B9A5C2252C771E900001AFF0 /* Lesson7Flashcards.json */,
+				B9A5C2262C771E900001AFF0 /* Lesson8Flashcards.json */,
+				B9A5C2272C771E900001AFF0 /* Lesson9Flashcards.json */,
+				B9A5C2282C771E900001AFF0 /* Lesson10Flashcards.json */,
+				B9A5C2292C771E900001AFF0 /* Lesson11Flashcards.json */,
+				B9A5C22A2C771E900001AFF0 /* Lesson12Flashcards.json */,
+				B9A5C22B2C771E900001AFF0 /* Lesson13Flashcards.json */,
+				B9A5C22C2C771E900001AFF0 /* Lesson14Flashcards.json */,
+				B9A5C22D2C771E900001AFF0 /* Lesson15Flashcards.json */,
+				B9A5C22E2C771E900001AFF0 /* Lesson16Flashcards.json */,
+				B9A5C22F2C771E900001AFF0 /* Lesson17Flashcards.json */,
+				B9A5C2302C771E900001AFF0 /* Lesson18Flashcards.json */,
+				B9A5C2312C771E900001AFF0 /* Lesson19Flashcards.json */,
+				B9A5C2322C771E900001AFF0 /* Lesson20Flashcards.json */,
+				B9A5C2332C771E900001AFF0 /* Lesson21Flashcards.json */,
+				B9A5C2342C771E900001AFF0 /* Lesson22Flashcards.json */,
+				B9A5C2352C771E900001AFF0 /* Lesson23Flashcards.json */,
+				B9A5C2362C771E900001AFF0 /* Lesson24Flashcards.json */,
+				B9A5C2372C771E900001AFF0 /* Lesson25Flashcards.json */,
+				B9A5C2382C771E900001AFF0 /* Lesson26Flashcards.json */,
+				B9A5C2392C771E900001AFF0 /* Lesson27Flashcards.json */,
+				B9A5C23A2C771E900001AFF0 /* Lesson28Flashcards.json */,
+				B9A5C23B2C771E900001AFF0 /* Lesson29Flashcards.json */,
+				B9A5C23C2C771E900001AFF0 /* Lesson30Flashcards.json */,
+				B9A5C23D2C771E900001AFF0 /* Lesson31Flashcards.json */,
+				B9A5C23E2C771E900001AFF0 /* Lesson32Flashcards.json */,
+				B9A5C23F2C771E900001AFF0 /* Lesson33Flashcards.json */,
+				B9A5C2402C771E900001AFF0 /* Lesson34Flashcards.json */,
+				B9A5C2412C771E900001AFF0 /* Lesson35Flashcards.json */,
+			);
+			path = json;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,10 +250,45 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9A5C2452C771E910001AFF0 /* Lesson3Flashcards.json in Resources */,
+				B9A5C24F2C771E910001AFF0 /* Lesson13Flashcards.json in Resources */,
+				B9A5C2532C771E910001AFF0 /* Lesson17Flashcards.json in Resources */,
+				B9A5C2622C771E910001AFF0 /* Lesson32Flashcards.json in Resources */,
+				B9A5C24E2C771E910001AFF0 /* Lesson12Flashcards.json in Resources */,
+				B9A5C25F2C771E910001AFF0 /* Lesson29Flashcards.json in Resources */,
+				B9A5C2512C771E910001AFF0 /* Lesson15Flashcards.json in Resources */,
+				B9A5C2542C771E910001AFF0 /* Lesson18Flashcards.json in Resources */,
+				B9A5C24A2C771E910001AFF0 /* Lesson8Flashcards.json in Resources */,
+				B9A5C2522C771E910001AFF0 /* Lesson16Flashcards.json in Resources */,
+				B9A5C2612C771E910001AFF0 /* Lesson31Flashcards.json in Resources */,
+				B9A5C2472C771E910001AFF0 /* Lesson5Flashcards.json in Resources */,
+				B9A5C2502C771E910001AFF0 /* Lesson14Flashcards.json in Resources */,
+				B9A5C2462C771E910001AFF0 /* Lesson4Flashcards.json in Resources */,
+				B9A5C24D2C771E910001AFF0 /* Lesson11Flashcards.json in Resources */,
+				B9A5C2572C771E910001AFF0 /* Lesson21Flashcards.json in Resources */,
+				B9A5C25D2C771E910001AFF0 /* Lesson27Flashcards.json in Resources */,
+				B9A5C2432C771E910001AFF0 /* Lesson1Flashcards.json in Resources */,
+				B9A5C2442C771E910001AFF0 /* Lesson2Flashcards.json in Resources */,
+				B9A5C2642C771E910001AFF0 /* Lesson34Flashcards.json in Resources */,
 				B98E3AEA2C0ED22300E1CD62 /* Preview Assets.xcassets in Resources */,
+				B9A5C25A2C771E910001AFF0 /* Lesson24Flashcards.json in Resources */,
+				B9A5C2602C771E910001AFF0 /* Lesson30Flashcards.json in Resources */,
+				B9A5C24C2C771E910001AFF0 /* Lesson10Flashcards.json in Resources */,
+				B9A5C2652C771E910001AFF0 /* Lesson35Flashcards.json in Resources */,
+				B9A5C2562C771E910001AFF0 /* Lesson20Flashcards.json in Resources */,
+				B9A5C2582C771E910001AFF0 /* Lesson22Flashcards.json in Resources */,
+				B9A5C2552C771E910001AFF0 /* Lesson19Flashcards.json in Resources */,
 				B9ADF37B2C4B789C00796B6D /* Learn Chinese Master.storekit in Resources */,
+				B9A5C25C2C771E910001AFF0 /* Lesson26Flashcards.json in Resources */,
+				B9A5C25E2C771E910001AFF0 /* Lesson28Flashcards.json in Resources */,
+				B9A5C2492C771E910001AFF0 /* Lesson7Flashcards.json in Resources */,
+				B9A5C2592C771E910001AFF0 /* Lesson23Flashcards.json in Resources */,
 				B98E3AE72C0ED22300E1CD62 /* Assets.xcassets in Resources */,
+				B9A5C25B2C771E910001AFF0 /* Lesson25Flashcards.json in Resources */,
+				B9A5C24B2C771E910001AFF0 /* Lesson9Flashcards.json in Resources */,
+				B9A5C2632C771E910001AFF0 /* Lesson33Flashcards.json in Resources */,
 				B9DCA5EB2C1083F8004B88E3 /* Space.MOV in Resources */,
+				B9A5C2482C771E910001AFF0 /* Lesson6Flashcards.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,44 +299,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9C850852C12D00000F7AE48 /* Lesson9Flashcards.swift in Sources */,
-				B9C4FDBE2C23F3BF0078BCE3 /* Lesson24Flashcards.swift in Sources */,
-				B92197112C1969E500EBA4D5 /* Lesson11Flashcards.swift in Sources */,
-				B9C850792C12CDC200F7AE48 /* Lesson3Flashcards.swift in Sources */,
-				B9C4FDCA2C23F4CD0078BCE3 /* Lesson30Flashcards.swift in Sources */,
-				B9C4FDBA2C23F3730078BCE3 /* Lesson22Flashcards.swift in Sources */,
-				B9C850832C12CFE100F7AE48 /* Lesson8Flashcards.swift in Sources */,
-				B9C8507B2C12CF5000F7AE48 /* Lesson4Flashcards.swift in Sources */,
-				B9E9CFE92C102AB100423113 /* Lesson1Flashcards.swift in Sources */,
 				B9B3D61C2C0F208C007D8731 /* LearnChineseApp.swift in Sources */,
-				B9C4FDCE2C23F5130078BCE3 /* Lesson32Flashcards.swift in Sources */,
-				B921971B2C196E2100EBA4D5 /* Lesson16Flashcards.swift in Sources */,
-				B994725D2C2D8210002743B5 /* Lesson33Flashcards.swift in Sources */,
-				B921971D2C196E4300EBA4D5 /* Lesson17Flashcards.swift in Sources */,
-				B92197172C196DDF00EBA4D5 /* Lesson14Flashcards.swift in Sources */,
-				B9C4FDC82C23F4AF0078BCE3 /* Lesson29Flashcards.swift in Sources */,
-				B9C850872C12D01900F7AE48 /* Lesson10Flashcards.swift in Sources */,
-				B92197212C196E9700EBA4D5 /* Lesson19Flashcards.swift in Sources */,
-				B9C8507D2C12CF8600F7AE48 /* Lesson5Flashcards.swift in Sources */,
-				B9C4FDC02C23F3E50078BCE3 /* Lesson25Flashcards.swift in Sources */,
-				B9E9CFEB2C1030E700423113 /* Lesson2Flashcards.swift in Sources */,
-				B9C4FDBC2C23F3980078BCE3 /* Lesson23Flashcards.swift in Sources */,
-				B92197132C196D9D00EBA4D5 /* Lesson12Flashcards.swift in Sources */,
 				B998D93A2C510EEF00F903F6 /* ContentView.swift in Sources */,
-				B9C4FDC42C23F41E0078BCE3 /* Lesson27Flashcards.swift in Sources */,
-				B92197152C196DBD00EBA4D5 /* Lesson13Flashcards.swift in Sources */,
-				B9C4FDC62C23F4880078BCE3 /* Lesson28Flashcards.swift in Sources */,
 				B998D9392C510EEF00F903F6 /* FlashcardManager.swift in Sources */,
-				B9C850812C12CFC900F7AE48 /* Lesson7Flashcards.swift in Sources */,
-				B92197232C196EAB00EBA4D5 /* Lesson20Flashcards.swift in Sources */,
-				B92197192C196DFE00EBA4D5 /* Lesson15Flashcards.swift in Sources */,
-				B9C4FDB82C23F34D0078BCE3 /* Lesson21Flashcards.swift in Sources */,
-				B99472612C2D8266002743B5 /* Lesson35Flashcards.swift in Sources */,
-				B9C4FDCC2C23F4EF0078BCE3 /* Lesson31Flashcards.swift in Sources */,
-				B9C8507F2C12CFAD00F7AE48 /* Lesson6Flashcards.swift in Sources */,
-				B994725F2C2D823E002743B5 /* Lesson34Flashcards.swift in Sources */,
-				B921971F2C196E7A00EBA4D5 /* Lesson18Flashcards.swift in Sources */,
-				B9C4FDC22C23F4020078BCE3 /* Lesson26Flashcards.swift in Sources */,
 				B998D9382C510EEF00F903F6 /* RepetitionTrainingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -71,27 +71,27 @@ struct RepetitionTrainingView: View {
                     
                     HStack {
                         Text(language == "Russian" ? "Всего фраз: \(totalPhrases)" : "Total phrases: \(totalPhrases)")
-                            .font(.system(size: 23.4, weight: .regular, design: .rounded)) // Increased by 30%
+                            .font(.system(size: 23.4, weight: .regular, design: .rounded))
                             .foregroundColor(.white)
                         
                         Spacer()
                         
                         Image(systemName: "checkmark.circle")
                             .foregroundColor(.green)
-                            .font(.system(size: 23.4, weight: .regular, design: .rounded)) // Increased by 30%
+                            .font(.system(size: 23.4, weight: .regular, design: .rounded))
                         
                         Text("\(correctCounter)")
-                            .font(.system(size: 23.4, weight: .regular, design: .rounded)) // Increased by 30%
+                            .font(.system(size: 23.4, weight: .regular, design: .rounded))
                             .foregroundColor(.white)
                         
                         Spacer()
                         
                         Image(systemName: "xmark.circle")
                             .foregroundColor(.red)
-                            .font(.system(size: 23.4, weight: .regular, design: .rounded)) // Increased by 30%
+                            .font(.system(size: 23.4, weight: .regular, design: .rounded))
                         
                         Text("\(incorrectCounter)")
-                            .font(.system(size: 23.4, weight: .regular, design: .rounded)) // Increased by 30%
+                            .font(.system(size: 23.4, weight: .regular, design: .rounded))
                             .foregroundColor(.white)
                     }
                     .padding()
@@ -116,7 +116,6 @@ struct RepetitionTrainingView: View {
                         .padding(.trailing, 10)
                     }
                     
-                    
                     if let flashcard = currentFlashcard {
                         VStack {
                             RectangleView(showText: $showPinyin, text: flashcard.pinyin, placeholder: language == "Russian" ? "Нажмите, чтобы увидеть Пиньинь" : "Tap to see Pinyin", height: 80, fontSize: 25)
@@ -130,8 +129,7 @@ struct RepetitionTrainingView: View {
                         .padding()
                     }
                     
-                    Spacer() // Ensure space for the buttons at the bottom
-                    
+                    Spacer()
                 }
                 .frame(maxHeight: .infinity)
                 .position(x: geometry.size.width / 2, y: geometry.size.height * positionMultiplier)
@@ -151,7 +149,6 @@ struct RepetitionTrainingView: View {
                             .shadow(color: .black.opacity(0.4), radius: 10, x: 5, y: 5)
                     }
                     .padding(.leading, 20)
-                    .padding(.bottom, 0)
                     
                     Spacer()
                     
@@ -167,7 +164,6 @@ struct RepetitionTrainingView: View {
                             .shadow(color: .black.opacity(0.4), radius: 10, x: 5, y: 5)
                     }
                     .padding(.trailing, 20)
-                    .padding(.bottom, 0)
                 }
             }
         }
@@ -237,7 +233,7 @@ struct RepetitionTrainingView: View {
     
     private func handleDontAction() {
         if isReviewing {
-            showNextFlashcard() // Show the next random flashcard from phrases to learn list
+            showNextFlashcard()
         } else {
             if totalPhrases > 0 {
                 totalPhrases -= 1
@@ -268,14 +264,14 @@ struct RectangleView: View {
     @Binding var showText: Bool
     let text: String
     let placeholder: String
-    var height: CGFloat = 60 // Adjusted for 40% smaller height
-    var fontSize: CGFloat = 21 // Adjusted for 40% smaller font size
+    var height: CGFloat = 60
+    var fontSize: CGFloat = 21
 
     var body: some View {
         Text(showText ? text : placeholder)
             .frame(maxWidth: .infinity)
-            .frame(minHeight: height, maxHeight: .infinity) // Adjust height to allow multiple lines
-            .font(.system(size: fontSize)) // Adjust font size
+            .frame(minHeight: height, maxHeight: .infinity)
+            .font(.system(size: fontSize))
             .padding()
             .background(
                 RoundedRectangle(cornerRadius: 20)
@@ -287,15 +283,14 @@ struct RectangleView: View {
             )
             .cornerRadius(20)
             .shadow(color: .black.opacity(0.2), radius: 10, x: 5, y: 5)
-            .foregroundColor(.white) // Set text color to white
-            .lineLimit(nil) // Allow unlimited lines
-            .multilineTextAlignment(.center) // Center-align text
+            .foregroundColor(.white)
+            .lineLimit(nil)
+            .multilineTextAlignment(.center)
             .onTapGesture {
                 showText.toggle()
             }
     }
 }
-
 
 struct RepetitionTrainingView_Previews: PreviewProvider {
     static var previews: some View {

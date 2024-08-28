@@ -1,93 +1,55 @@
 import Foundation
-import AVKit
 import SwiftUI
+import AVKit
+import UIKit
 
-struct Flashcard: Identifiable {
-    let id = UUID()
+// Flashcard Struct
+struct Flashcard: Identifiable, Codable {
+    let id: UUID
     let pinyin: String
     let chinese: String
     let russian: String
     let english: String
+    
+    // Custom decoder to assign UUID during JSON decoding
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        self.id = UUID() // Generate a new UUID for each decoded flashcard
+        self.pinyin = try container.decode(String.self, forKey: .pinyin)
+        self.chinese = try container.decode(String.self, forKey: .chinese)
+        self.russian = try container.decode(String.self, forKey: .russian)
+        self.english = try container.decode(String.self, forKey: .english)
+    }
+    
+    init(id: UUID = UUID(), pinyin: String, chinese: String, russian: String, english: String) {
+        self.id = id
+        self.pinyin = pinyin
+        self.chinese = chinese
+        self.russian = russian
+        self.english = english
+    }
 }
 
+// Flashcard Manager
 struct FlashcardManager {
     static func getFlashcards(for lesson: Int) -> [Flashcard] {
-        switch lesson {
-        case 1:
-            return Lesson1Flashcards.data
-        case 2:
-            return Lesson2Flashcards.data
-        case 3:
-            return Lesson3Flashcards.data
-        case 4:
-            return Lesson4Flashcards.data
-        case 5:
-            return Lesson5Flashcards.data
-        case 6:
-            return Lesson6Flashcards.data
-        case 7:
-            return Lesson7Flashcards.data
-        case 8:
-            return Lesson8Flashcards.data
-        case 9:
-            return Lesson9Flashcards.data
-        case 10:
-            return Lesson10Flashcards.data
-        case 11:
-            return Lesson11Flashcards.data
-        case 12:
-            return Lesson12Flashcards.data
-        case 13:
-            return Lesson13Flashcards.data
-        case 14:
-            return Lesson14Flashcards.data
-        case 15:
-            return Lesson15Flashcards.data
-        case 16:
-            return Lesson16Flashcards.data
-        case 17:
-            return Lesson17Flashcards.data
-        case 18:
-            return Lesson18Flashcards.data
-        case 19:
-            return Lesson19Flashcards.data
-        case 20:
-            return Lesson20Flashcards.data
-        case 21:
-            return Lesson21Flashcards.data
-        case 22:
-            return Lesson22Flashcards.data
-        case 23:
-            return Lesson23Flashcards.data
-        case 24:
-            return Lesson24Flashcards.data
-        case 25:
-            return Lesson25Flashcards.data
-        case 26:
-            return Lesson26Flashcards.data
-        case 27:
-            return Lesson27Flashcards.data
-        case 28:
-            return Lesson28Flashcards.data
-        case 29:
-            return Lesson29Flashcards.data
-        case 30:
-            return Lesson30Flashcards.data
-        case 31:
-            return Lesson31Flashcards.data
-        case 32:
-            return Lesson32Flashcards.data
-        case 33:
-            return Lesson33Flashcards.data
-        case 34:
-            return Lesson34Flashcards.data
-        case 35:
-            return Lesson35Flashcards.data
-        default:
+        let fileName = "Lesson\(lesson)Flashcards.json"
+        guard let fileURL = Bundle.main.url(forResource: fileName, withExtension: nil) else {
+            print("File not found: \(fileName)")
+            return []
+        }
+        
+        do {
+            let data = try Data(contentsOf: fileURL)
+            let decoder = JSONDecoder()
+            let flashcards = try decoder.decode([Flashcard].self, from: data)
+            return flashcards
+        } catch {
+            print("Failed to load or decode file: \(fileName), error: \(error)")
             return []
         }
     }
-    
+
     static func getFlashcards(from startLesson: Int, to endLesson: Int) -> [Flashcard] {
         var flashcards: [Flashcard] = []
         for lesson in startLesson...endLesson {
@@ -97,6 +59,7 @@ struct FlashcardManager {
     }
 }
 
+// Video Background View
 struct VideoBackgroundView: UIViewRepresentable {
     func makeUIView(context: Context) -> UIView {
         return LoopingPlayerUIView()
@@ -105,6 +68,7 @@ struct VideoBackgroundView: UIViewRepresentable {
     func updateUIView(_ uiView: UIView, context: Context) {}
 }
 
+// Looping Video Player
 class LoopingPlayerUIView: UIView {
     private var player: AVQueuePlayer?
     private var playerLooper: AVPlayerLooper?

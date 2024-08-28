@@ -106,7 +106,6 @@ class StoreManager: NSObject, ObservableObject, SKProductsRequestDelegate, SKPay
     }
 
     func openManageSubscriptions() {
-        // This function should open the subscription management in the user's Apple ID settings.
         guard let url = URL(string: "https://apps.apple.com/account/subscriptions") else { return }
         if UIApplication.shared.canOpenURL(url) {
             UIApplication.shared.open(url, options: [:], completionHandler: nil)
@@ -126,9 +125,9 @@ struct ContentView: View {
     @State private var showLessonButtons = true
     @State private var flashcards: [Flashcard] = FlashcardManager.getFlashcards(for: 1)
     @State private var currentLesson = 1
-    @State private var language = UserDefaults.standard.string(forKey: "language") ?? "English" // Default language is English
+    @State private var language = UserDefaults.standard.string(forKey: "language") ?? "English"
     @State private var selectedTab = "Serial Course"
-    @State private var phrasesToLearn: [Flashcard] = [] // Initialize empty list for RepetitionTrainingView
+    @State private var phrasesToLearn: [Flashcard] = []
     @StateObject private var storeManager = StoreManager()
     @State private var showSubscriptionScreen = false
 
@@ -141,15 +140,14 @@ struct ContentView: View {
                 Picker("Select Mode", selection: $selectedTab) {
                     Text("Serial Course")
                         .tag("Serial Course")
-                        .background(Color.white) // Background color for selected tab
+                        .background(Color.white)
                     Text("Repetition Training")
                         .tag("Repetition Training")
-                        .background(Color.gray.opacity(0.5)) // Adjust the opacity for the unselected tab
+                        .background(Color.gray.opacity(0.5))
                 }
                 .pickerStyle(SegmentedPickerStyle())
                 .padding()
                 .onChange(of: selectedTab) { _ in
-                    // Reset state when switching views
                     showLessonButtons = true
                     currentIndex = 0
                     if selectedTab == "Serial Course" {
@@ -215,13 +213,14 @@ struct ContentView: View {
         UserDefaults.standard.set(language, forKey: "language")
     }
 }
+
 struct SubscriptionView: View {
     @ObservedObject var storeManager: StoreManager
     @Binding var showSubscriptionScreen: Bool
 
     var body: some View {
         ZStack {
-            Color.black.opacity(0.5) // 50% faded background
+            Color.black.opacity(0.5)
                 .edgesIgnoringSafeArea(.all)
 
             VStack(spacing: 10) {
@@ -245,10 +244,7 @@ struct SubscriptionView: View {
                         Spacer()
                         Button(action: {
                             if let product = storeManager.myProducts.first(where: { $0.productIdentifier == "com.learnchinese.flashcards.basic1" }) {
-                                print("One Month Subscription button pressed")
                                 storeManager.purchaseProduct(product: product)
-                            } else {
-                                print("One Month Subscription product not found")
                             }
                         }) {
                             Text("Subscribe")
@@ -264,10 +260,7 @@ struct SubscriptionView: View {
                         Spacer()
                         Button(action: {
                             if let product = storeManager.myProducts.first(where: { $0.productIdentifier == "com.learnchinese.flashcards.basic3" }) {
-                                print("One Year Subscription button pressed")
                                 storeManager.purchaseProduct(product: product)
-                            } else {
-                                print("One Year Subscription product not found")
                             }
                         }) {
                             Text("Subscribe")
@@ -316,7 +309,7 @@ struct SubscriptionView: View {
             .background(Color.gray)
             .cornerRadius(20)
             .shadow(radius: 10)
-            .frame(width: 350, height: 300) // Adjusted frame to be wider and taller to accommodate additional text
+            .frame(width: 350, height: 300)
         }
     }
 }
@@ -352,13 +345,13 @@ struct SerialCourseView: View {
 
     var body: some View {
         if showLessonButtons {
-            ScrollView(showsIndicators: false) { // Disable the scroll indicator
+            ScrollView(showsIndicators: false) {
                 VStack(spacing: 20) {
                     ForEach(SerialCourseLevel.allCases, id: \.self) { level in
                         VStack(alignment: .leading, spacing: 15) {
                             Text(level.title(language: language))
                                 .font(.headline)
-                                .foregroundColor(.white) // Set text color to white
+                                .foregroundColor(.white)
                             ForEach(Array(level.range).chunked(into: 2), id: \.self) { row in
                                 HStack(spacing: 20) {
                                     ForEach(row, id: \.self) { lesson in
@@ -366,19 +359,7 @@ struct SerialCourseView: View {
                                             if lesson > 10 && !storeManager.isPurchased {
                                                 showSubscriptionScreen = true
                                             } else {
-                                                let newFlashcards = FlashcardManager.getFlashcards(for: lesson)
-                                                if !newFlashcards.isEmpty {
-                                                    showLessonButtons = false
-                                                    flashcards = newFlashcards
-                                                    currentIndex = 0
-                                                    currentLesson = lesson
-                                                    totalPhrases = newFlashcards.count
-                                                    correctCounter = 0
-                                                    incorrectCounter = 0
-                                                    progressGreen = 0.0
-                                                    progressRed = 0.0
-                                                    answers = []
-                                                }
+                                                loadFlashcards(for: lesson)
                                             }
                                         }) {
                                             Text(getLessonTitle(for: lesson, language: language))
@@ -419,7 +400,7 @@ struct SerialCourseView: View {
                     if let message = storeManager.subscriptionMessage {
                         Text(message)
                             .font(.system(size: 16, weight: .regular, design: .rounded))
-                            .foregroundColor(.white) // Set text color to white
+                            .foregroundColor(.white)
                             .padding()
                     }
                 }
@@ -460,34 +441,33 @@ struct SerialCourseView: View {
                     HStack {
                         Text(language == "Russian" ? "Всего фраз: \(totalPhrases)" : "Total phrases: \(totalPhrases)")
                             .font(.system(size: 23.4, weight: .regular, design: .rounded))
-                            .foregroundColor(.white) // Set text color to white
+                            .foregroundColor(.white)
                         Spacer()
                         Image(systemName: "checkmark.circle")
                             .foregroundColor(.green)
                             .font(.system(size: 23.4, weight: .regular, design: .rounded))
                         Text("\(correctCounter)")
                             .font(.system(size: 23.4, weight: .regular, design: .rounded))
-                            .foregroundColor(.white) // Set text color to white
+                            .foregroundColor(.white)
                         Spacer()
                         Image(systemName: "xmark.circle")
                             .foregroundColor(.red)
                             .font(.system(size: 23.4, weight: .regular, design: .rounded))
                         Text("\(incorrectCounter)")
                             .font(.system(size: 23.4, weight: .regular, design: .rounded))
-                            .foregroundColor(.white) // Set text color to white
+                            .foregroundColor(.white)
                     }
                     .padding(.bottom, 5)
                     
                     Divider()
                     
-                    // Progress bar and percentage
                     HStack {
                         ProgressBar(progressGreen: $progressGreen, progressRed: $progressRed)
                             .frame(height: 20)
                         Text("\(Int((progressGreen + progressRed) * 100))%")
                             .font(.system(size: 18, weight: .bold, design: .rounded))
                             .padding(.leading, 10)
-                            .foregroundColor(.white) // Set text color to white
+                            .foregroundColor(.white)
                     }
                     .padding(.horizontal)
                     
@@ -525,7 +505,6 @@ struct SerialCourseView: View {
                     .padding()
                 }
                 .padding()
-                
             }
         }
     }
@@ -539,11 +518,29 @@ struct SerialCourseView: View {
         UserDefaults.standard.set(language, forKey: "language")
     }
     
+    func loadFlashcards(for lesson: Int) {
+        let newFlashcards = FlashcardManager.getFlashcards(for: lesson)
+        if !newFlashcards.isEmpty {
+            showLessonButtons = false
+            flashcards = newFlashcards
+            currentIndex = 0
+            currentLesson = lesson
+            totalPhrases = newFlashcards.count
+            correctCounter = 0
+            incorrectCounter = 0
+            progressGreen = 0.0
+            progressRed = 0.0
+            answers = []
+        } else {
+            print("No flashcards found for lesson \(lesson).")
+        }
+    }
+    
     func handleDontAction() {
         if totalPhrases > 0 {
-            phrasesToLearn.append(flashcards[currentIndex]) // Add the flashcard to phrases to learn
+            phrasesToLearn.append(flashcards[currentIndex])
             incorrectCounter += 1
-            totalPhrases -= 1 // Decrement total phrases
+            totalPhrases -= 1
             currentIndex = (currentIndex + 1) % flashcards.count
             answers.append(false)
             updateProgress()
@@ -553,7 +550,7 @@ struct SerialCourseView: View {
     func handleKnowAction() {
         if totalPhrases > 0 {
             correctCounter += 1
-            totalPhrases -= 1 // Decrement total phrases
+            totalPhrases -= 1
             currentIndex = (currentIndex + 1) % flashcards.count
             answers.append(true)
             updateProgress()
@@ -567,7 +564,7 @@ struct SerialCourseView: View {
         progressRed = CGFloat(answers.filter { !$0 }.count) * increment
         
         if total == flashcards.count {
-            answers.sort { $0 && !$1 } // Sort to have green on the left and red on the right
+            answers.sort { $0 && !$1 }
             progressGreen = CGFloat(answers.filter { $0 }.count) * increment
             progressRed = CGFloat(answers.filter { !$0 }.count) * increment
         }
