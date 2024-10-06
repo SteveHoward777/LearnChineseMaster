@@ -118,7 +118,7 @@ struct RepetitionTrainingView: View {
                     
                     if let flashcard = currentFlashcard {
                         VStack {
-                            RectangleView(showText: $showPinyin, text: flashcard.pinyin, placeholder: language == "Russian" ? "Нажмите, чтобы увидеть Пиньинь" : "Tap to see Pinyin", height: 80, fontSize: 25)
+                            RectangleView(showText: $showPinyin, text: flashcard.pinyin, placeholder: language == "Russian" ? "Нажмите, чтобы увидеть Пиньинь"  : "Tap to see Pinyin", height: 80, fontSize: 25)
                             RectangleView(showText: $showChinese, text: flashcard.chinese, placeholder: language == "Russian" ? "Нажмите, чтобы увидеть китайские иероглифы" : "Tap to see Chinese characters", height: 80, fontSize: 25)
                             RectangleView(showText: $showTranslation, text: language == "Russian" ? flashcard.russian : flashcard.english, placeholder: language == "Russian" ? "Нажмите, чтобы увидеть перевод на русский" : "Tap to see English translation ", height: 80, fontSize: 25)
                         }
