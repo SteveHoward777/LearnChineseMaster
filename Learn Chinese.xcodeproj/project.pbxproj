@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B97716E82CCD0F6A00468CD4 /* NewDataBase.db in Resources */ = {isa = PBXBuildFile; fileRef = B97716E72CCD0F6A00468CD4 /* NewDataBase.db */; };
 		B98E3AE72C0ED22300E1CD62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B98E3AE62C0ED22300E1CD62 /* Assets.xcassets */; };
 		B98E3AEA2C0ED22300E1CD62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B98E3AE92C0ED22300E1CD62 /* Preview Assets.xcassets */; };
 		B998D9382C510EEF00F903F6 /* RepetitionTrainingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B998D9352C510EEF00F903F6 /* RepetitionTrainingView.swift */; };
@@ -53,6 +54,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B97716E72CCD0F6A00468CD4 /* NewDataBase.db */ = {isa = PBXFileReference; lastKnownFileType = file; name = NewDataBase.db; path = ../../../NewDataBase.db; sourceTree = "<group>"; };
 		B98E3ADF2C0ED22200E1CD62 /* Learn Chinese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Learn Chinese.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B98E3AE62C0ED22300E1CD62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B98E3AE92C0ED22300E1CD62 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 		B98E3AE82C0ED22300E1CD62 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				B97716E72CCD0F6A00468CD4 /* NewDataBase.db */,
 				B98E3AE92C0ED22300E1CD62 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -251,6 +254,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9A5C2452C771E910001AFF0 /* Lesson3Flashcards.json in Resources */,
+				B97716E82CCD0F6A00468CD4 /* NewDataBase.db in Resources */,
 				B9A5C24F2C771E910001AFF0 /* Lesson13Flashcards.json in Resources */,
 				B9A5C2532C771E910001AFF0 /* Lesson17Flashcards.json in Resources */,
 				B9A5C2622C771E910001AFF0 /* Lesson32Flashcards.json in Resources */,
